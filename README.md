@@ -1,5 +1,5 @@
-# HFEDL
-Heterogeneous Federated Learning (Research)
+# Heterogeneous Federated Learning (Research)
+
 
 # Federated learning of predictive models from federated Electronic Health Records
 Theodora S. Brisimi, Ruidi Chen, Theofanie Mela, Alex Olshevsky, Ioannis Ch. Paschalidis, Wei Shi
