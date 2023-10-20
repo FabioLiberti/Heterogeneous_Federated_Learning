@@ -1,5 +1,5 @@
 # Heterogeneous Federated Learning (Research)
-Raccolta degli articoli scientifici maggiormente significativi inerenti l'apprendimento automatico federato (decentralizzato):
+Raccolta degli articoli scientifici maggiormente significativi inerenti l'"Apprendimento automatico federato (decentralizzato)":
 - Heterogeneous Federated Learning
 - Dynamic Federated Learning
 - ...  
