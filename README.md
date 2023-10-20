@@ -1,4 +1,5 @@
 # Heterogeneous Federated Learning (Research)
+Raccolta degli articoli scientifici maggiormente significativi inerenti "Heterogeneous Federated Learning", "Dynamic Federated Learning", ... \ 
 
 [TOC title="Indice"]
 * [Titolo 1](#titolo-1)
