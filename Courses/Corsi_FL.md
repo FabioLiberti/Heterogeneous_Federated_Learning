@@ -1,3 +1,0 @@
-StandFord
-AAlto
-.....
