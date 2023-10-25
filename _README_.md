@@ -2,14 +2,19 @@
 Raccolta degli articoli scientifici maggiormente significativi inerenti l'"_Apprendimento automatico federato (decentralizzato)_".
  
 ## Indice
-* [Applicazioni] (#APPLICAZIONI)
-* [Applicazioni in Edge Computing](##Applicazioni in Edge Computing)
-* [Applicazioni in Industria](##Applicazioni in Industria)
-* [Applicazioni in Sanità](##Applicazioni in Sanità)
-* [Applicazioni in Wireless Network](##Applicazioni in Wireless Network)
-* [ARTICOLI] (#ARTICOLI)
-* [Benchmark Federated Learning](##Benchmark Federated Learning)
-...
+
+# APPLICAZIONI
+
+* [Applicazioni in Edge Computing](#applicazioni-in-edge-computing)
+* [Applicazioni in Industria](#applicazioni-in-industria)
+* [Applicazioni in Sanità](#applicazioni-in-sanità)
+* [Applicazioni in Wireless Network](#applicazioni-in-wireless-network)
+
+
+# ARTICOLI
+
+* [Benchmark Federated Learning](#benchmark-federated-learning)
+
 
 .....
 
