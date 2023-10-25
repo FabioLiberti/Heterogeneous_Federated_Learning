@@ -25,7 +25,7 @@ Raccolta degli articoli scientifici maggiormente significativi inerenti l'"_Appr
 
  
 
-.....
+-------------
 
 
 # APPLICAZIONI
