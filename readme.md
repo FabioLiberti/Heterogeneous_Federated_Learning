@@ -3,15 +3,15 @@ Raccolta degli articoli scientifici maggiormente significativi inerenti l'"_Appr
  
 [TOC]
 * Applicazioni
-** [Applicazioni in Edge Computing](#titolo-1)
+* [Applicazioni in Edge Computing](#titolo-1)
 * Articoli
-** [Titolo 2](##titolo-2)
-*** [Titolo 3](###titolo-3)
+* [Titolo 2](##titolo-2)
+* [Titolo 3](###titolo-3)
 .....
 
 # APPLICAZIONI
 
-# Applicazioni in Edge Computing
+## Applicazioni in Edge Computing
 
 * (3) Topology-aware Federated Learning in Edge Computing: A Comprehensive Survey (6 Febbraio 2023) [n.136 SLR]
 
@@ -53,14 +53,14 @@ PMID: 29500022 PMCID: PMC5836813 DOI: 10.1016/j.ijmedinf.2018.01.007
 
 # ARTICOLI
 
-# Benchmark Federated Learning
+## Benchmark Federated Learning
 
 * UniFed: A Benchmark for Federated Learning Frameworks (20 Ottobre 2022) [n.?? SLR] (https://arxiv.org/pdf/2207.10308.pdf)
 
 
-# Continual Learning
+## Continual Learning
 
-# Decentral & Incentivized Federated Learning
+## Decentral & Incentivized Federated Learning
 
 * (1) Decentral and Incentivized Federated Learning Frameworks: A Systematic Literature Review (2022) [n.25 SLR]
 
