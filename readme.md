@@ -2,7 +2,6 @@
 Raccolta degli articoli scientifici maggiormente significativi inerenti l'"_Apprendimento automatico federato (decentralizzato)_".
  
 ## Indice
-
 * [Applicazioni] (#APPLICAZIONI)
 * [Applicazioni in Edge Computing](##Applicazioni in Edge Computing)
 * [Applicazioni in Industria](##Applicazioni in Industria)
