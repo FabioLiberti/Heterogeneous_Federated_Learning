@@ -22,11 +22,10 @@ Raccolta degli articoli scientifici maggiormente significativi inerenti l'"_Appr
 * (10) Combined Federated and Split Learning in Edge Computing for Ubiquitous Intelligence in Internet of Things: State-of-the-Art and Future Directions (10 Agosto 2022) [n.84 SLR]
 
 
-# Applicazioni in Industria
+## Applicazioni in Industria
 
 
-
-# Applicazioni in Sanità
+## Applicazioni in Sanità
 
 * Federated learning of predictive models from federated Electronic Health Records
 Theodora S. Brisimi, Ruidi Chen, Theofanie Mela, Alex Olshevsky, Ioannis Ch. Paschalidis, Wei Shi \
@@ -43,7 +42,7 @@ PMID: 29500022 PMCID: PMC5836813 DOI: 10.1016/j.ijmedinf.2018.01.007
 * AFEI: adaptive optimized vertical federated learning for heterogeneous multi-omics data integration (27 Luglio 2023) [n.?? SLR] (academic.oup.com/bib/advance-article/doi/10.1093/bib/bbad269/7231518) ***************
 
 
-# Applicazioni in Wireless Network
+## Applicazioni in Wireless Network
 
 * Hierarchical Federated Learning in Wireless Networks: Pruning Tackles Bandwidth Scarcity and System Heterogeneity (3 Agosto 2023) [n.?? SLR] (https://arxiv.org/pdf/2308.01562.pdf)
 
@@ -65,14 +64,14 @@ PMID: 29500022 PMCID: PMC5836813 DOI: 10.1016/j.ijmedinf.2018.01.007
 * (1) Decentral and Incentivized Federated Learning Frameworks: A Systematic Literature Review (2022) [n.25 SLR]
 
 
-# Domain Adaptation
+## Domain Adaptation
 
-# Dynamic Federated Learning
+## Dynamic Federated Learning
 
 * Fairness of Federated Learning with Dynamic Partecipants (14 Febbraio 2023) [n.?? SLR] (https://openreview.net/forum?id=ZRkHGPMY3dd)
 
 
-# Federated Learning - Survey
+## Federated Learning - Survey
 
 * (3) Topology-aware Federated Learning in Edge Computing: A Comprehensive Survey (6 Febbraio 2023) [n.136 SLR]
 
@@ -89,7 +88,7 @@ PMID: 29500022 PMCID: PMC5836813 DOI: 10.1016/j.ijmedinf.2018.01.007
 * (9) IEEE Guide for Architectural Framework and Application of Federated Machine Learning (2020) [n.27 SLR]
 
 
-# Heterogeneous Federated Learning
+## Heterogeneous Federated Learning
 
 * (6) A Survey on Heterogeneous Federated Learning (10 Ottobre 2022) [n.141 SLR]
 
@@ -115,22 +114,25 @@ PMID  PMCID:  DOI:
 * FedAPEN: Personalized Cross-silo Federated Learning with Adaptability to Statistical Heterogeneity (04 Agosto 2023) [n.?? SLR] (https://doi.org/10.1145/3580305.3599344)
 
 
-# Incremental Federated Learning
+## Incremental Federated Learning
 
-# Multimodal Federated Learning
+## Multimodal Federated Learning
 
-# Out-of-Distribution Generalization
+## Out-of-Distribution Generalization
 
-# Personalized Federated Learning
+## Personalized Federated Learning
 
-# Split Learning
+## Split Learning
 
 * (10) Combined Federated and Split Learning in Edge Computing for Ubiquitous Intelligence in Internet of Things: State-of-the-Art and Future Directions (10 Agosto 2022) [n.84 SLR]
 
 * (11) Split Computing and Early Exiting for Deep Learning Applications: Survey and Research Challenges (25 Marzo 2022) [n.149 SLR]
 
 
-# Trustworthy Federated Learning
+## Trustworthy Federated Learning
 
 * (2) A Survey of Trustworthy Federated Learning with Perspectives on Security, Robustness, and Privacy (21 Febbraio 2023) [n.135 SLR]
+
+
+-------------------
 
