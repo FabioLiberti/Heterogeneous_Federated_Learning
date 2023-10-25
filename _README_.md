@@ -59,7 +59,7 @@ https://pubmed.ncbi.nlm.nih.gov/29500022/ [IDTOP--,n.-- SLR]
 https:// [IDTOP01,n.158 SLR]
 
 * Federated Learning for Data and Model Heterogeneity in Medical Imaging (31 Luglio 2023)  
-https://arxiv.org/pdf/2308.00155.pdf [IDTOP--,n.?? SLR]
+https://arxiv.org/pdf/2308.00155.pdf [IDTOP--,n.-- SLR]
 
 * Uncertainty Quantification in Federated Learning for Heterogeneous Health Data (7 Agosto 2023) ) [n.?? SLR] (openreview.net/pdf?id=QSQOTUVQR46)  ->>>>>>>>>> NO
 
