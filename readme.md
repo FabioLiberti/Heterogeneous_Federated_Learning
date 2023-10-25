@@ -1,14 +1,11 @@
 # Heterogeneous Federated Learning (Research)
 Raccolta degli articoli scientifici maggiormente significativi inerenti l'"_Apprendimento automatico federato (decentralizzato)_":
-- Heterogeneous Federated Learning
-- Dynamic Federated Learning
-- ...  
-
+ 
 [TOC]
 * [Applicazioni in Edge Computing](#titolo-1)
 * [Titolo 2](##titolo-2)
 * [Titolo 3](###titolo-3)
-
+.....
 
 
 # Applicazioni in Edge Computing
@@ -25,6 +22,7 @@ Raccolta degli articoli scientifici maggiormente significativi inerenti l'"_Appr
 # Applicazioni in Industria
 
 
+
 # Applicazioni in Sanità
 
 * Federated learning of predictive models from federated Electronic Health Records
@@ -34,6 +32,24 @@ https://pubmed.ncbi.nlm.nih.gov/29500022/ \
 PMID: 29500022 PMCID: PMC5836813 DOI: 10.1016/j.ijmedinf.2018.01.007
 
 * (1) Federated learning-based AI approaches in smart healthcare: concepts, taxonomies, challenges and open issues (17 Giugno 2022) [n.158 SLR]
+
+* Federated Learning for Data and Model Heterogeneity in Medical Imaging (31 Luglio 2023) [n.?? SLR] (arxiv.org/pdf/2308.00155.pdf)
+
+* Uncertainty Quantification in Federated Learning for Heterogeneous Health Data (7 Agosto 2023) ) [n.?? SLR] (openreview.net/pdf?id=QSQOTUVQR46)  ->>>>>>>>>> NO
+
+* AFEI: adaptive optimized vertical federated learning for heterogeneous multi-omics data integration (27 Luglio 2023) [n.?? SLR] (academic.oup.com/bib/advance-article/doi/10.1093/bib/bbad269/7231518) ***************
+
+
+# Applicazioni in Wireless Network
+
+* Hierarchical Federated Learning in Wireless Networks: Pruning Tackles Bandwidth Scarcity and System Heterogeneity (3 Agosto 2023) [n.?? SLR] (https://arxiv.org/pdf/2308.01562.pdf)
+
+
+-------------
+
+# Benchmark Federated Learning
+
+* UniFed: A Benchmark for Federated Learning Frameworks (20 Ottobre 2022) [n.?? SLR] (https://arxiv.org/pdf/2207.10308.pdf)
 
 
 # Continual Learning
@@ -46,6 +62,9 @@ PMID: 29500022 PMCID: PMC5836813 DOI: 10.1016/j.ijmedinf.2018.01.007
 # Domain Adaptation
 
 # Dynamic Federated Learning
+
+* Fairness of Federated Learning with Dynamic Partecipants (14 Febbraio 2023) [n.?? SLR] (https://openreview.net/forum?id=ZRkHGPMY3dd)
+
 
 # Federated Learning - Survey
 
@@ -71,7 +90,23 @@ PMID: 29500022 PMCID: PMC5836813 DOI: 10.1016/j.ijmedinf.2018.01.007
 * A Survey on Heterogeneous Federated learning
 Dashan Gao, Xin Yao, Fellow, Qiang Yang \
 https://
-PMID  PMCID:  DOI: 
+PMID  PMCID:  DOI:
+
+* Heterogeneous Federated Learning: State-of-the-art and Research Challenges (08 Settembre 2023) [n.?? SLR] (https://arxiv.org/pdf/2307.10616.pdf)
+
+* Federated Learning for Computationally-Constrained Heterogeneous Devices: A Survey (18 Luglio 2023) [n.?? SLR] (arxiv.org/pdf/2307.09182.pdf)
+
+* FedHM: Practical federated learning for heterogeneous model deployments (29 Luglio 2023) [n.?? SLR] (sciencedirect.com/science/article/pii/S2405959523000929)
+
+* Synthetic data shuffling accelerates the convergence of federated learning under data heterogeneity (23 Giugno 2023) [n.?? SLR] (arxiv.org/pdf/2306.13263.pdf) ->>>>>>>>>>> ????
+
+* Federated mutual learning: a collaborative machine learning method for heterogeneous data, models, and objectives (5 Agosto 2023) [n.?? SLR] (link.springer.com/article/10.1631/FITEE.2300098) ->>>>>>>>>>>> Recuperare articolo (chiesto alla Biblioteca)
+
+* A Practical Recipe for Federated Learning Under Statistical Heterogeneity Experimental Design (28 Luglio 2023) [n.?? SLR] (https://arxiv.org/pdf/2307.15245.pdf)
+
+* Heterogeneous Federated Learning: State-of-the-art and Research Challenges (20 Luglio 2023) [n.?? SLR] (https://doi.org/10.48550/arXiv.2307.10616)
+
+* FedAPEN: Personalized Cross-silo Federated Learning with Adaptability to Statistical Heterogeneity (04 Agosto 2023) [n.?? SLR] (https://doi.org/10.1145/3580305.3599344)
 
 
 # Incremental Federated Learning
