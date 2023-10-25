@@ -1,12 +1,15 @@
 # Heterogeneous Federated Learning (Research)
-Raccolta degli articoli scientifici maggiormente significativi inerenti l'"_Apprendimento automatico federato (decentralizzato)_":
+Raccolta degli articoli scientifici maggiormente significativi inerenti l'"_Apprendimento automatico federato (decentralizzato)_".
  
 [TOC]
-* [Applicazioni in Edge Computing](#titolo-1)
-* [Titolo 2](##titolo-2)
-* [Titolo 3](###titolo-3)
+* Applicazioni
+** [Applicazioni in Edge Computing](#titolo-1)
+* Articoli
+** [Titolo 2](##titolo-2)
+*** [Titolo 3](###titolo-3)
 .....
 
+# APPLICAZIONI
 
 # Applicazioni in Edge Computing
 
@@ -45,7 +48,10 @@ PMID: 29500022 PMCID: PMC5836813 DOI: 10.1016/j.ijmedinf.2018.01.007
 * Hierarchical Federated Learning in Wireless Networks: Pruning Tackles Bandwidth Scarcity and System Heterogeneity (3 Agosto 2023) [n.?? SLR] (https://arxiv.org/pdf/2308.01562.pdf)
 
 
+
 -------------
+
+# ARTICOLI
 
 # Benchmark Federated Learning
 
