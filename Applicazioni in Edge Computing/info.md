@@ -6,4 +6,7 @@ Federated Learning for Edge Computing: A Survey (11 Settembre 2022) [n. ?? SLR] 
 
 Federated Learning in Edge Computing: A Systematic Survey (7 Gennaio 2022) [n. ?? SLR] {https://www.mdpi.com/1424-8220/22/2/450} [n.?? SLR]
 
+10) Combined Federated and Split Learning in Edge Computing for Ubiquitous Intelligence in Internet of Things: State-of-the-Art and Future Directions (10 Agosto 2022) [n.84 SLR]
+
+
 
