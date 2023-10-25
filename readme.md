@@ -4,16 +4,11 @@ Raccolta degli articoli scientifici maggiormente significativi inerenti l'"_Appr
 - Dynamic Federated Learning
 - ...  
 
-[TOC title="Indice"]
+[TOC]
 * [Applicazioni in Edge Computing](#titolo-1)
 * [Titolo 2](##titolo-2)
 * [Titolo 3](###titolo-3)
 
-
-### A Survey on Heterogeneous Federated learning
-Dashan Gao, Xin Yao, Fellow, Qiang Yang \
-https://
-PMID  PMCID:  DOI:  
 
 
 # Applicazioni in Edge Computing
@@ -74,6 +69,11 @@ Federated Learning in Edge Computing: A Systematic Survey (7 Gennaio 2022) [n. ?
 # Heterogeneous Federated Learning
 
 6) A Survey on Heterogeneous Federated Learning (10 Ottobre 2022) [n.141 SLR]
+
+### A Survey on Heterogeneous Federated learning
+Dashan Gao, Xin Yao, Fellow, Qiang Yang \
+https://
+PMID  PMCID:  DOI: 
 
 
 # Incremental Federated Learning
