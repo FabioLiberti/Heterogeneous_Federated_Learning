@@ -5,9 +5,9 @@ Raccolta degli articoli scientifici maggiormente significativi inerenti l'"_Appr
 - ...  
 
 [TOC title="Indice"]
-* [Titolo 1](# titolo-1)
-* [Titolo 2](## titolo-2)
-* [Titolo 3](### titolo-3)
+* [Applicazioni in Edge Computing](#titolo-1)
+* [Titolo 2](##titolo-2)
+* [Titolo 3](###titolo-3)
 
 
 ### A Survey on Heterogeneous Federated learning
