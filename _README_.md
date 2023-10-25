@@ -3,26 +3,14 @@ Raccolta degli articoli scientifici maggiormente significativi inerenti l'"_Appr
  
 ## Indice
 
-# APPLICAZIONI
-
-* [Applicazioni in Edge Computing](#applicazioni-in-edge-computing)
-* [Applicazioni in Industria](#applicazioni-in-industria)
-* [Applicazioni in Sanità](#applicazioni-in-sanità)
-* [Applicazioni in Wireless Network](#applicazioni-in-wireless-network)
-
-
-# ARTICOLI
-
 - [Heterogeneous Federated Learning (Research)](#heterogeneous-federated-learning-research)
   - [Indice](#indice)
 - [APPLICAZIONI](#applicazioni)
-- [ARTICOLI](#articoli)
-- [APPLICAZIONI](#applicazioni-1)
   - [Applicazioni in Edge Computing](#applicazioni-in-edge-computing)
   - [Applicazioni in Industria](#applicazioni-in-industria)
   - [Applicazioni in Sanità](#applicazioni-in-sanità)
   - [Applicazioni in Wireless Network](#applicazioni-in-wireless-network)
-- [ARTICOLI](#articoli-1)
+- [ARTICOLI](#articoli)
   - [Benchmark Federated Learning](#benchmark-federated-learning)
   - [Continual Learning](#continual-learning)
   - [Decentral \& Incentivized Federated Learning](#decentral--incentivized-federated-learning)
