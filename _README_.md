@@ -55,9 +55,11 @@ Raccolta degli articoli scientifici maggiormente significativi inerenti l'"_Appr
 https://www.sciencedirect.com/science/article/abs/pii/S138650561830008X \
 https://pubmed.ncbi.nlm.nih.gov/29500022/ [IDTOP--,n.-- SLR]
 
-* (1) Federated learning-based AI approaches in smart healthcare: concepts, taxonomies, challenges and open issues (17 Giugno 2022) [n.158 SLR]
+* Federated learning-based AI approaches in smart healthcare: concepts, taxonomies, challenges and open issues (17 Giugno 2022) 
+https:// [IDTOP01,n.158 SLR]
 
-* Federated Learning for Data and Model Heterogeneity in Medical Imaging (31 Luglio 2023) [n.?? SLR] (arxiv.org/pdf/2308.00155.pdf)
+* Federated Learning for Data and Model Heterogeneity in Medical Imaging (31 Luglio 2023)  
+https://arxiv.org/pdf/2308.00155.pdf [IDTOP--,n.?? SLR]
 
 * Uncertainty Quantification in Federated Learning for Heterogeneous Health Data (7 Agosto 2023) ) [n.?? SLR] (openreview.net/pdf?id=QSQOTUVQR46)  ->>>>>>>>>> NO
 
