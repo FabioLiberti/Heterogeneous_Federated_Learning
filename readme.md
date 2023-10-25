@@ -1,13 +1,19 @@
 # Heterogeneous Federated Learning (Research)
 Raccolta degli articoli scientifici maggiormente significativi inerenti l'"_Apprendimento automatico federato (decentralizzato)_".
  
-[TOC]
-* Applicazioni
-* [Applicazioni in Edge Computing](#titolo-1)
-* Articoli
-* [Titolo 2](##titolo-2)
-* [Titolo 3](###titolo-3)
+## Indice
+
+* [Applicazioni] (#APPLICAZIONI)
+* [Applicazioni in Edge Computing](##Applicazioni in Edge Computing)
+* [Applicazioni in Industria](##Applicazioni in Industria)
+* [Applicazioni in Sanità](##Applicazioni in Sanità)
+* [Applicazioni in Wireless Network](##Applicazioni in Wireless Network)
+* [ARTICOLI] (#ARTICOLI)
+* [Benchmark Federated Learning](##Benchmark Federated Learning)
+...
+
 .....
+
 
 # APPLICAZIONI
 
