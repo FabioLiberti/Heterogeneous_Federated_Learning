@@ -13,8 +13,31 @@ Raccolta degli articoli scientifici maggiormente significativi inerenti l'"_Appr
 
 # ARTICOLI
 
-* [Benchmark Federated Learning](#benchmark-federated-learning)
+- [Heterogeneous Federated Learning (Research)](#heterogeneous-federated-learning-research)
+  - [Indice](#indice)
+- [APPLICAZIONI](#applicazioni)
+- [ARTICOLI](#articoli)
+- [APPLICAZIONI](#applicazioni-1)
+  - [Applicazioni in Edge Computing](#applicazioni-in-edge-computing)
+  - [Applicazioni in Industria](#applicazioni-in-industria)
+  - [Applicazioni in Sanità](#applicazioni-in-sanità)
+  - [Applicazioni in Wireless Network](#applicazioni-in-wireless-network)
+- [ARTICOLI](#articoli-1)
+  - [Benchmark Federated Learning](#benchmark-federated-learning)
+  - [Continual Learning](#continual-learning)
+  - [Decentral \& Incentivized Federated Learning](#decentral--incentivized-federated-learning)
+  - [Domain Adaptation](#domain-adaptation)
+  - [Dynamic Federated Learning](#dynamic-federated-learning)
+  - [Federated Learning - Survey](#federated-learning---survey)
+  - [Heterogeneous Federated Learning](#heterogeneous-federated-learning)
+  - [Incremental Federated Learning](#incremental-federated-learning)
+  - [Multimodal Federated Learning](#multimodal-federated-learning)
+  - [Out-of-Distribution Generalization](#out-of-distribution-generalization)
+  - [Personalized Federated Learning](#personalized-federated-learning)
+  - [Split Learning](#split-learning)
+  - [Trustworthy Federated Learning](#trustworthy-federated-learning)
 
+ 
 
 .....
 
