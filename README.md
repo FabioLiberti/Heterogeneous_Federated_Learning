@@ -199,18 +199,18 @@ https://doi.org/10.1145/3580305.3599344
 ## Split Learning
 
 * Combined Federated and Split Learning in Edge Computing for Ubiquitous Intelligence in Internet of Things: State-of-the-Art and Future Directions (10 Agosto 2022)    
-https://       
+https://arxiv.org/abs/2207.09611       
 [ID10,n.84 SLR]    
 
 * Split Computing and Early Exiting for Deep Learning Applications: Survey and Research Challenges (25 Marzo 2022)    
-https://              
+https://arxiv.org/abs/2103.04505              
 [ID11,n.149 SLR]     
 
 
 ## Trustworthy Federated Learning
 
 * A Survey of Trustworthy Federated Learning with Perspectives on Security, Robustness, and Privacy (21 Febbraio 2023)       
-https://     
+https://arxiv.org/abs/2302.10637          
 [ID02,n.135 SLR]       
 
 
