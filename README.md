@@ -19,10 +19,10 @@ Selezione degli **articoli scientifici** maggiormente significativi inerenti l'"
   - [Split Learning](#split-learning)
   - [Trustworthy Federated Learning](#trustworthy-federated-learning)
 - [APPLICAZIONI](#applicazioni)
-  - [Applicazioni in Edge Computing](#applicazioni-in-edge-computing)
-  - [Applicazioni in Industria](#applicazioni-in-industria)
-  - [Applicazioni in Sanità](#applicazioni-in-sanità)
-  - [Applicazioni in Wireless Network](#applicazioni-in-wireless-network)
+  - [Applicazioni in *Edge Computing*](#applicazioni-in-edge-computing)
+  - [Applicazioni in *Industria*](#applicazioni-in-industria)
+  - [Applicazioni in *Sanità*](#applicazioni-in-sanità)
+  - [Applicazioni in *Wireless Network*](#applicazioni-in-wireless-network)
 
  
 
@@ -166,7 +166,7 @@ https://arxiv.org/abs/2302.10637
 
 # APPLICAZIONI
 
-## Applicazioni in Edge Computing
+## Applicazioni in *Edge Computing*
 
 * Topology-aware Federated Learning in Edge Computing: A Comprehensive Survey (6 Febbraio 2023)   
   https://arxiv.org/abs/2302.02573  
@@ -185,10 +185,10 @@ https://arxiv.org/abs/2302.10637
   [ID10,n.84 SLR]
 
 
-## Applicazioni in Industria
+## Applicazioni in *Industria*
 
 
-## Applicazioni in Sanità
+## Applicazioni in *Sanità*
 
 * Federated learning of predictive models from federated Electronic Health Records
 https://www.sciencedirect.com/science/article/abs/pii/S138650561830008X   
@@ -212,7 +212,7 @@ https://academic.oup.com/bib/advance-article/doi/10.1093/bib/bbad269/7231518
 [ID--,n.-- SLR]
 
 
-## Applicazioni in Wireless Network
+## Applicazioni in *Wireless Network*
 
 * Hierarchical Federated Learning in Wireless Networks: Pruning Tackles Bandwidth Scarcity and System Heterogeneity (3 Agosto 2023)   
 https://arxiv.org/pdf/2308.01562.pdf   
