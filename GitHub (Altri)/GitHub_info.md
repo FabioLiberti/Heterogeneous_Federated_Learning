@@ -1,5 +1,5 @@
 # GitHub su Federated Learning (Research)
-Raccolta dei **repository** maggiormente significativi inerenti l'"_**Apprendimento automatico federato (decentralizzato)**_".
+Raccolta dei **repositories** maggiormente significativi inerenti l'"_**Apprendimento automatico federato (decentralizzato)**_".
  
 ## Indice
 - [GitHub su Federated Learning (Research)](#github-su-federated-learning-research)
