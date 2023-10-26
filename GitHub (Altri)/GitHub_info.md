@@ -10,6 +10,7 @@ Raccolta dei **repositories** maggiormente significativi inerenti l'"_**Apprendi
     - [Getting started with Federated Learning with Pytorch and PySyft](#getting-started-with-federated-learning-with-pytorch-and-pysyft)
     - [Vertical Federated Learning](#vertical-federated-learning)
     - [Robust Federated Learning with Noisy and Heterogeneous Clients](#robust-federated-learning-with-noisy-and-heterogeneous-clients)
+    - [Flower: A Friendly Federated Learning Framework](#flower-a-friendly-federated-learning-framework)
 
  
 
@@ -43,5 +44,10 @@ https://github.com/OpenMined/PyVertical
 ### Robust Federated Learning with Noisy and Heterogeneous Clients                  
 This repository provides resources for the following paper: [Robust Federated Learning with Noisy and Heterogeneous Client](CVPR 2022 Open Access Repository), Xiuwen Fang, Mang Ye CVPR 2022              
 https://github.com/FangXiuwen/Robust_FL          
+
+
+### Flower: A Friendly Federated Learning Framework                 
+This series of tutorials introduces the fundamentals of federated learning and how to implement them in Flower Federated Learning Framework (2023).                  
+https://github.com/adap/flower        
 
 
