@@ -115,7 +115,7 @@ https://arxiv.org/pdf/2306.13263.pdf
 [ID--,n.-- SLR]  
 
 * Federated mutual learning: a collaborative machine learning method for heterogeneous data, models, and objectives (5 Agosto 2023)   
-link.springer.com/article/10.1631/FITEE.2300098    
+https://link.springer.com/article/10.1631/FITEE.2300098    
 [ID--,n.-- SLR]    
 
 * A Practical Recipe for Federated Learning Under Statistical Heterogeneity Experimental Design (28 Luglio 2023)    
