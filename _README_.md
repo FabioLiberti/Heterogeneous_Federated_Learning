@@ -125,15 +125,25 @@ https://
 https://   
 [ID04,n.137 SLR]
 
-* Federated Learning for Edge Computing: A Survey (11 Settembre 2022) [n. ?? SLR] {https://www.mdpi.com/2076-3417/12/18/9124} [n.?? SLR]
+* Federated Learning for Edge Computing: A Survey (11 Settembre 2022)   
+https://www.mdpi.com/2076-3417/12/18/9124   
+[ID--,n.-- SLR]
 
-* Federated Learning in Edge Computing: A Systematic Survey (7 Gennaio 2022) [n. ?? SLR] {https://www.mdpi.com/1424-8220/22/2/450} [n.?? SLR]
+* Federated Learning in Edge Computing: A Systematic Survey (7 Gennaio 2022)   
+https://www.mdpi.com/1424-8220/22/2/450   
+[ID--,n.-- SLR]
 
-* (5) Advancements in Federated Learning: Models, Methods, and Privacy (5 Marzo 2023) [n.159 SLR]
+* Advancements in Federated Learning: Models, Methods, and Privacy (5 Marzo 2023)   
+https://   
+[ID05, n.159 SLR]
 
-* (8) A Survey on Federated Learning Systems: Vision, Hype and Reality for Data Privacy and Protection (5 Dicembre 2021) [n.148 SLR]
+* A Survey on Federated Learning Systems: Vision, Hype and Reality for Data Privacy and Protection (5 Dicembre 2021)  
+https://      
+[ID08,n.148 SLR]
 
-* (9) IEEE Guide for Architectural Framework and Application of Federated Machine Learning (2020) [n.27 SLR]
+* IEEE Guide for Architectural Framework and Application of Federated Machine Learning (2020)   
+https://    
+[ID09,n.27 SLR]
 
 
 ## Heterogeneous Federated Learning
