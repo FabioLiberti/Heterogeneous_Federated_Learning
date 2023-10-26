@@ -11,7 +11,7 @@ Raccolta dei **repositories** maggiormente significativi inerenti l'"_**Apprendi
     - [Vertical Federated Learning](#vertical-federated-learning)
     - [Robust Federated Learning with Noisy and Heterogeneous Clients](#robust-federated-learning-with-noisy-and-heterogeneous-clients)
     - [Flower: A Friendly Federated Learning Framework](#flower-a-friendly-federated-learning-framework)
-    - [FederatedScope - Playground](#federatedscope---playground)
+    - [FederatedScope - *Playground*](#federatedscope---playground)
 
  
 
@@ -52,7 +52,7 @@ This series of tutorials introduces the fundamentals of federated learning and h
 https://github.com/adap/flower        
 
 
-### FederatedScope - Playground
+### FederatedScope - *Playground*
 FederatedScope, a comprehensive federated learning platform with event-driven architecture, aims to provide easy-to-use and flexible support for users who want to get started and customize task-specific FL procedures quickly (2022).   
 https://colab.research.google.com/github/alibaba/FederatedScope     
 
