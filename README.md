@@ -5,12 +5,12 @@ Selezione degli **articoli scientifici** maggiormente significativi inerenti l'"
 - [Heterogeneous Federated Learning (Research)](#heterogeneous-federated-learning-research)
   - [Indice](#indice)
 - [ARTICOLI](#articoli)
-  - [Benchmark Federated Learning](#benchmark-federated-learning)
+  - [Federated Learning - *Benchmark*](#federated-learning---benchmark)
+  - [Federated Learning - *Survey*](#federated-learning---survey)
   - [Continual Learning](#continual-learning)
   - [Decentral \& Incentivized Federated Learning](#decentral--incentivized-federated-learning)
   - [Domain Adaptation](#domain-adaptation)
   - [Dynamic Federated Learning](#dynamic-federated-learning)
-  - [Federated Learning - Survey](#federated-learning---survey)
   - [Heterogeneous Federated Learning](#heterogeneous-federated-learning)
   - [Incremental Federated Learning](#incremental-federated-learning)
   - [Multimodal Federated Learning](#multimodal-federated-learning)
@@ -31,33 +31,14 @@ Selezione degli **articoli scientifici** maggiormente significativi inerenti l'"
 
 # ARTICOLI
 
-## Benchmark Federated Learning
+##  Federated Learning - *Benchmark*
 
 * UniFed: A Benchmark for Federated Learning Frameworks (20 Ottobre 2022)   
 https://arxiv.org/pdf/2207.10308.pdf   
-[ID--,n.-- SLR] 
+[ID--,n.-- SLR]
 
 
-## Continual Learning
-
-
-## Decentral & Incentivized Federated Learning
-
-* Decentral and Incentivized Federated Learning Frameworks: A Systematic Literature Review (2022)  
-https://   
-[ID01,n.25 SLR]
-
-
-## Domain Adaptation
-
-## Dynamic Federated Learning
-
-* Fairness of Federated Learning with Dynamic Partecipants (14 Febbraio 2023)  
-https://openreview.net/forum?id=ZRkHGPMY3dd   
-[ID--,n.-- SLR] 
-
-
-## Federated Learning - Survey
+##  Federated Learning - *Survey*
 
 * Topology-aware Federated Learning in Edge Computing: A Comprehensive Survey (6 Febbraio 2023)   
 https://  
@@ -85,7 +66,27 @@ https://
 
 * IEEE Guide for Architectural Framework and Application of Federated Machine Learning (2020)   
 https://    
-[ID09,n.27 SLR]
+[ID09,n.27 SLR]   
+
+
+## Continual Learning
+
+
+## Decentral & Incentivized Federated Learning
+
+* Decentral and Incentivized Federated Learning Frameworks: A Systematic Literature Review (2022)  
+https://   
+[ID01,n.25 SLR]
+
+
+## Domain Adaptation
+
+
+## Dynamic Federated Learning
+
+* Fairness of Federated Learning with Dynamic Partecipants (14 Febbraio 2023)  
+https://openreview.net/forum?id=ZRkHGPMY3dd   
+[ID--,n.-- SLR] 
 
 
 ## Heterogeneous Federated Learning
@@ -132,11 +133,15 @@ https://doi.org/10.1145/3580305.3599344
 
 ## Incremental Federated Learning
 
+
 ## Multimodal Federated Learning
+
 
 ## Out-of-Distribution Generalization
 
+
 ## Personalized Federated Learning
+
 
 ## Split Learning
 
