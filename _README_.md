@@ -91,7 +91,7 @@ https://arxiv.org/pdf/2308.01562.pdf
 
 ## Benchmark Federated Learning
 
-* UniFed: A Benchmark for Federated Learning Frameworks (20 Ottobre 2022) 
+* UniFed: A Benchmark for Federated Learning Frameworks (20 Ottobre 2022)   
 https://arxiv.org/pdf/2207.10308.pdf   
 [ID--,n.-- SLR] 
 
@@ -101,9 +101,9 @@ https://arxiv.org/pdf/2207.10308.pdf
 
 ## Decentral & Incentivized Federated Learning
 
-* (1) Decentral and Incentivized Federated Learning Frameworks: A Systematic Literature Review (2022)  
+* Decentral and Incentivized Federated Learning Frameworks: A Systematic Literature Review (2022)  
 https://   
-[ID--,n.25 SLR]
+[ID01,n.25 SLR]
 
 
 ## Domain Adaptation
@@ -117,9 +117,13 @@ https://openreview.net/forum?id=ZRkHGPMY3dd
 
 ## Federated Learning - Survey
 
-* (3) Topology-aware Federated Learning in Edge Computing: A Comprehensive Survey (6 Febbraio 2023) [n.136 SLR]
+* Topology-aware Federated Learning in Edge Computing: A Comprehensive Survey (6 Febbraio 2023)   
+https://  
+[ID03,n.136 SLR]
 
-* (4) Recent Advances on Federated Learning: A Systematic Survey (3 Gennaio 2023) [n.137 SLR]
+* Recent Advances on Federated Learning: A Systematic Survey (3 Gennaio 2023)   
+https://   
+[ID04,n.137 SLR]
 
 * Federated Learning for Edge Computing: A Survey (11 Settembre 2022) [n. ?? SLR] {https://www.mdpi.com/2076-3417/12/18/9124} [n.?? SLR]
 
