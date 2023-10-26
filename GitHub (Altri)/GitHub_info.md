@@ -4,28 +4,38 @@ Raccolta dei **repositories** maggiormente significativi inerenti l'"_**Apprendi
 ## Indice
 - [GitHub su Federated Learning (Research)](#github-su-federated-learning-research)
   - [Indice](#indice)
-    - [Dynamic Federated Learning](#dynamic-federated-learning)
     - [Federated Learning in Security in Network Management](#federated-learning-in-security-in-network-management)
+    - [Dynamic Federated Learning](#dynamic-federated-learning)
     - [Heterogeneous Federated Learning](#heterogeneous-federated-learning)
+    - [Getting started with Federated Learning with Pytorch and PySyft](#getting-started-with-federated-learning-with-pytorch-and-pysyft)
+    - [Vertical Federated Learning](#vertical-federated-learning)
 
  
 
 -------------
 
 
+### Federated Learning in Security in Network Management  
+Tutorial has been presented at the **14th International Conference on Network of the Future (NoF 2023)** on Wednesday 4th October 2023.     
+https://github.com/phdcybersec/nof_2023   
+
+
 ### Dynamic Federated Learning   
-Topic in Dynamic Federated Learning (DFL).      
+Topic in Dynamic Federated Learning (2023).      
 https://github.com/conditionWang/Dynamic-FL    
 
 
-### Federated Learning in Security in Network Management  
-Tutorial has been presented at the **14th International Conference on Network of the Future (NoF 2023)** on Wednesday 4th October 2023.     
-https://github.com/phdcybersec/nof_2023     
-
-
 ### Heterogeneous Federated Learning        
-Survey for Hetergeneous Federated Learning by MARS Group at the Wuhan University, led by Prof. Mang Ye.        
+Survey for Hetergeneous Federated Learning by MARS Group at the Wuhan University, led by Prof. Mang Ye (2023).        
 https://github.com/marswhu/HFL_Survey     
 
+
+### Getting started with Federated Learning with Pytorch and PySyft         
+This repository contains submission for the 2020 Facebook developers circle community challenge. We will be discussing about privacy preserving machine learning tools built on top of pytorch alongside tutorials for technical implementations. (2021).        
+https://github.com/Boluwatifeh/Secure-AI       
+
+### Vertical Federated Learning     
+OpenMined - A project developing privacy-preserving, vertical federated learning, using syft (2021).       
+https://github.com/OpenMined/PyVertical       
 
 
