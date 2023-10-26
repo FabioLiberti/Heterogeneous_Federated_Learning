@@ -47,7 +47,7 @@ https://github.com/FangXiuwen/Robust_FL
 
 
 ### Flower: A Friendly Federated Learning Framework                 
-This series of tutorials introduces the fundamentals of federated learning and how to implement them in Flower Federated Learning Framework (2023).                  
+This series of tutorials introduces the fundamentals of federated learning and how to implement them in Flower Federated Learning Framework (2023) .                  
 https://github.com/adap/flower        
 
 
