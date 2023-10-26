@@ -9,7 +9,7 @@ Raccolta dei **corsi universitari** maggiormente significativi inerenti l'"_**Ap
     - [Google - Federated Learning \& Analytics Research Demos \& TFF Tutorials](#google---federated-learning--analytics-research-demos--tff-tutorials)
     - [Google - Federated Learning and Analytics](#google---federated-learning-and-analytics)
     - [Owkin - Federated Learning](#owkin---federated-learning)
-    - [Inria - Federated Learning](#inria---federated-learning)
+    - [Inria - Federated Learning and Data Privacy](#inria---federated-learning-and-data-privacy)
 
  
 
@@ -42,8 +42,8 @@ Federated Learning Workshop
 https://www.youtube.com/watch?v=GH7nwdqGypA
 
 
-### Inria - Federated Learning
-Federated Learning & Data Privacy, 2022-2023    
+### Inria - Federated Learning and Data Privacy
+Inria Centre at Université Côte d'Azur - Federated Learning & Data Privacy, 2022-2023    
 http://www-sop.inria.fr/members/Giovanni.Neglia/federatedlearning/
 
 
