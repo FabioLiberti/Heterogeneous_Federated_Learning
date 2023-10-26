@@ -34,19 +34,19 @@ Raccolta degli articoli scientifici maggiormente significativi inerenti l'"_Appr
 ## Applicazioni in Edge Computing
 
 * Topology-aware Federated Learning in Edge Computing: A Comprehensive Survey (6 Febbraio 2023)   
-  https://arxiv.org/abs/2302.02573 
+  https://arxiv.org/abs/2302.02573  
   [ID03,n.136 SLR]
 
 * Federated Learning for Edge Computing: A Survey (11 Settembre 2022)   
-  https://www.mdpi.com/2076-3417/12/18/9124 
+  https://www.mdpi.com/2076-3417/12/18/9124  
   [ID--,n.-- SLR]
 
 * Federated Learning in Edge Computing: A Systematic Survey (7 Gennaio 2022)    
-  https://www.mdpi.com/1424-8220/22/2/450 
+  https://www.mdpi.com/1424-8220/22/2/450  
   [ID--,n.-- SLR]
 
 * Combined Federated and Split Learning in Edge Computing for Ubiquitous Intelligence in Internet of Things: State-of-the-Art and Future Directions (10 Agosto 2022)   
-  https://arxiv.org/abs/2207.09611 
+  https://arxiv.org/abs/2207.09611  
   [ID10,n.84 SLR]
 
 
@@ -56,24 +56,24 @@ Raccolta degli articoli scientifici maggiormente significativi inerenti l'"_Appr
 ## Applicazioni in Sanità
 
 * Federated learning of predictive models from federated Electronic Health Records
-https://www.sciencedirect.com/science/article/abs/pii/S138650561830008X \
-https://pubmed.ncbi.nlm.nih.gov/29500022/ 
+https://www.sciencedirect.com/science/article/abs/pii/S138650561830008X   
+https://pubmed.ncbi.nlm.nih.gov/29500022/   
 [ID--,n.-- SLR]
 
-* Federated learning-based AI approaches in smart healthcare: concepts, taxonomies, challenges and open issues (17 Giugno 2022) \
-https:// 
+* Federated learning-based AI approaches in smart healthcare: concepts, taxonomies, challenges and open issues (17 Giugno 2022)   
+https://   
 [ID01,n.158 SLR]
 
 * Federated Learning for Data and Model Heterogeneity in Medical Imaging (31 Luglio 2023)  
-https://arxiv.org/pdf/2308.00155.pdf 
+https://arxiv.org/pdf/2308.00155.pdf   
 [ID--,n.-- SLR]
 
 * Uncertainty Quantification in Federated Learning for Heterogeneous Health Data (7 Agosto 2023)   
-https://openreview.net/pdf?id=QSQOTUVQR46 
+https://openreview.net/pdf?id=QSQOTUVQR46   
 [ID--,n.-- SLR]  
 
 * AFEI: adaptive optimized vertical federated learning for heterogeneous multi-omics data integration (27 Luglio 2023) 
-https://academic.oup.com/bib/advance-article/doi/10.1093/bib/bbad269/7231518 
+https://academic.oup.com/bib/advance-article/doi/10.1093/bib/bbad269/7231518   
 [ID--,n.-- SLR]
 
 
