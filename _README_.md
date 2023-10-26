@@ -80,7 +80,7 @@ https://academic.oup.com/bib/advance-article/doi/10.1093/bib/bbad269/7231518
 ## Applicazioni in Wireless Network
 
 * Hierarchical Federated Learning in Wireless Networks: Pruning Tackles Bandwidth Scarcity and System Heterogeneity (3 Agosto 2023) [n.?? SLR] 
-https://arxiv.org/pdf/2308.01562.pdf 
+https://arxiv.org/pdf/2308.01562.pdf   
 [ID--,n.-- SLR]
 
 
@@ -92,7 +92,7 @@ https://arxiv.org/pdf/2308.01562.pdf
 ## Benchmark Federated Learning
 
 * UniFed: A Benchmark for Federated Learning Frameworks (20 Ottobre 2022) 
-https://arxiv.org/pdf/2207.10308.pdf
+https://arxiv.org/pdf/2207.10308.pdf   
 [ID--,n.-- SLR] 
 
 
@@ -101,14 +101,18 @@ https://arxiv.org/pdf/2207.10308.pdf
 
 ## Decentral & Incentivized Federated Learning
 
-* (1) Decentral and Incentivized Federated Learning Frameworks: A Systematic Literature Review (2022) [n.25 SLR]
+* (1) Decentral and Incentivized Federated Learning Frameworks: A Systematic Literature Review (2022)  
+https://   
+[ID--,n.25 SLR]
 
 
 ## Domain Adaptation
 
 ## Dynamic Federated Learning
 
-* Fairness of Federated Learning with Dynamic Partecipants (14 Febbraio 2023) [n.?? SLR] (https://openreview.net/forum?id=ZRkHGPMY3dd)
+* Fairness of Federated Learning with Dynamic Partecipants (14 Febbraio 2023)  
+https://openreview.net/forum?id=ZRkHGPMY3dd   
+[ID--,n.-- SLR] 
 
 
 ## Federated Learning - Survey
