@@ -17,7 +17,8 @@ Raccolta dei **corsi universitari** maggiormente significativi inerenti l'"_**Ap
 
 
 ### Standford - Federated Learning
-https://www.classcentral.com/classroom/youtube-generalization-and-personalization-in-federated-learning-karan-singhal-132497/63fd8e59bb25aù
+Stanford MedAI - Generalization and Personalization in Federated Learning         
+https://www.classcentral.com/classroom/youtube-generalization-and-personalization-in-federated-learning-karan-singhal-132497/63fd8e59bb25a
 
 
 ### Aalto - Federated Learning (CS-E4740)
@@ -46,3 +47,5 @@ Federated Learning & Data Privacy, 2022-2023
 http://www-sop.inria.fr/members/Giovanni.Neglia/federatedlearning/
 
 
+
+----------------------
