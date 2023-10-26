@@ -8,7 +8,7 @@ Raccolta dei **corsi universitari** maggiormente significativi inerenti l'"_**Ap
     - [Aalto - Federated Learning (CS-E4740)](#aalto---federated-learning-cs-e4740)
     - [Google - Federated Learning \& Analytics Research Demos \& TFF Tutorials](#google---federated-learning--analytics-research-demos--tff-tutorials)
     - [Google - Federated Learning and Analytics](#google---federated-learning-and-analytics)
-    - [Owkin - Federated Learning](#owkin---federated-learning)
+    - [Owkin - Federated Learning Workshop](#owkin---federated-learning-workshop)
     - [Inria - Federated Learning and Data Privacy](#inria---federated-learning-and-data-privacy)
 
  
@@ -37,8 +37,8 @@ Google Workshop on Federated Learning and Analytics (2021)
 https://www.youtube.com/playlist?list=PLSIUOFhnxEiD9uihG5t9ABdPhSVqQ3HWA
 
 
-### Owkin - Federated Learning
-Federated Learning Workshop    
+### Owkin - Federated Learning Workshop
+Owkin (AI biotechnology company) - Federated Learning Workshop (2021)    
 https://www.youtube.com/watch?v=GH7nwdqGypA
 
 
