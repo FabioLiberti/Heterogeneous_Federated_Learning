@@ -1,5 +1,5 @@
 # Corsi su Federated Learning (Research)
-Raccolta dei corsi universitari maggiormente significativi inerenti l'"_Apprendimento automatico federato (decentralizzato)_".
+Raccolta dei **corsi universitari** maggiormente significativi inerenti l'"_**Apprendimento automatico federato (decentralizzato)**_".
  
 ## Indice
 - [Corsi su Federated Learning (Research)](#corsi-su-federated-learning-research)
@@ -9,6 +9,7 @@ Raccolta dei corsi universitari maggiormente significativi inerenti l'"_Apprendi
     - [Google - Federated Learning](#google---federated-learning)
     - [Google - Federated Learning](#google---federated-learning-1)
     - [Owkin - Federated Learning](#owkin---federated-learning)
+    - [Inria - Federated Learning](#inria---federated-learning)
 
  
 
@@ -38,5 +39,10 @@ https://www.youtube.com/playlist?list=PLSIUOFhnxEiD9uihG5t9ABdPhSVqQ3HWA
 ### Owkin - Federated Learning
 Federated Learning Workshop    
 https://www.youtube.com/watch?v=GH7nwdqGypA
+
+
+### Inria - Federated Learning
+Federated Learning & Data Privacy, 2022-2023    
+http://www-sop.inria.fr/members/Giovanni.Neglia/federatedlearning/
 
 
