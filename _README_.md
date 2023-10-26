@@ -135,7 +135,7 @@ https://www.mdpi.com/1424-8220/22/2/450
 
 * Advancements in Federated Learning: Models, Methods, and Privacy (5 Marzo 2023)   
 https://   
-[ID05, n.159 SLR]
+[ID05,n.159 SLR]
 
 * A Survey on Federated Learning Systems: Vision, Hype and Reality for Data Privacy and Protection (5 Dicembre 2021)  
 https://      
@@ -156,21 +156,36 @@ https://
 https://   
 [ID--,n.-- SLR]   
 
-* Heterogeneous Federated Learning: State-of-the-art and Research Challenges (08 Settembre 2023) [n.?? SLR] (https://arxiv.org/pdf/2307.10616.pdf)
+* Heterogeneous Federated Learning: State-of-the-art and Research Challenges (08 Settembre 2023)   
+https://arxiv.org/pdf/2307.10616.pdf   
+[ID--,n.-- SLR]
 
-* Federated Learning for Computationally-Constrained Heterogeneous Devices: A Survey (18 Luglio 2023) [n.?? SLR] (arxiv.org/pdf/2307.09182.pdf)
+* Federated Learning for Computationally-Constrained Heterogeneous Devices: A Survey (18 Luglio 2023)    https://arxiv.org/pdf/2307.09182.pdf  
+[ID--,n.-- SLR]
 
-* FedHM: Practical federated learning for heterogeneous model deployments (29 Luglio 2023) [n.?? SLR] (sciencedirect.com/science/article/pii/S2405959523000929)
+* FedHM: Practical federated learning for heterogeneous model deployments (29 Luglio 2023)    
+https://sciencedirect.com/science/article/pii/S2405959523000929    
+[ID--,n.-- SLR]
 
-* Synthetic data shuffling accelerates the convergence of federated learning under data heterogeneity (23 Giugno 2023) [n.?? SLR] (arxiv.org/pdf/2306.13263.pdf) ->>>>>>>>>>> ????
+* Synthetic data shuffling accelerates the convergence of federated learning under data heterogeneity (23 Giugno 2023)   
+https://arxiv.org/pdf/2306.13263.pdf   
+[ID--,n.-- SLR]  
 
-* Federated mutual learning: a collaborative machine learning method for heterogeneous data, models, and objectives (5 Agosto 2023) [n.?? SLR] (link.springer.com/article/10.1631/FITEE.2300098) ->>>>>>>>>>>> Recuperare articolo (chiesto alla Biblioteca)
+* Federated mutual learning: a collaborative machine learning method for heterogeneous data, models, and objectives (5 Agosto 2023)   
+link.springer.com/article/10.1631/FITEE.2300098    
+[ID--,n.-- SLR]    
 
-* A Practical Recipe for Federated Learning Under Statistical Heterogeneity Experimental Design (28 Luglio 2023) [n.?? SLR] (https://arxiv.org/pdf/2307.15245.pdf)
+* A Practical Recipe for Federated Learning Under Statistical Heterogeneity Experimental Design (28 Luglio 2023)    
+https://arxiv.org/pdf/2307.15245.pdf    
+[ID--,n.-- SLR]   
 
-* Heterogeneous Federated Learning: State-of-the-art and Research Challenges (20 Luglio 2023) [n.?? SLR] (https://doi.org/10.48550/arXiv.2307.10616)
+* Heterogeneous Federated Learning: State-of-the-art and Research Challenges (20 Luglio 2023)   
+https://doi.org/10.48550/arXiv.2307.10616    
+[ID--,n.-- SLR]    
 
-* FedAPEN: Personalized Cross-silo Federated Learning with Adaptability to Statistical Heterogeneity (04 Agosto 2023) [n.?? SLR] (https://doi.org/10.1145/3580305.3599344)
+* FedAPEN: Personalized Cross-silo Federated Learning with Adaptability to Statistical Heterogeneity (04 Agosto 2023)    
+https://doi.org/10.1145/3580305.3599344     
+[ID--,n.-- SLR]
 
 
 ## Incremental Federated Learning
@@ -183,14 +198,20 @@ https://
 
 ## Split Learning
 
-* (10) Combined Federated and Split Learning in Edge Computing for Ubiquitous Intelligence in Internet of Things: State-of-the-Art and Future Directions (10 Agosto 2022) [n.84 SLR]
+* Combined Federated and Split Learning in Edge Computing for Ubiquitous Intelligence in Internet of Things: State-of-the-Art and Future Directions (10 Agosto 2022)    
+https://       
+[ID10,n.84 SLR]    
 
-* (11) Split Computing and Early Exiting for Deep Learning Applications: Survey and Research Challenges (25 Marzo 2022) [n.149 SLR]
+* Split Computing and Early Exiting for Deep Learning Applications: Survey and Research Challenges (25 Marzo 2022)    
+https://              
+[ID11,n.149 SLR]     
 
 
 ## Trustworthy Federated Learning
 
-* (2) A Survey of Trustworthy Federated Learning with Perspectives on Security, Robustness, and Privacy (21 Febbraio 2023) [n.135 SLR]
+* A Survey of Trustworthy Federated Learning with Perspectives on Security, Robustness, and Privacy (21 Febbraio 2023)       
+https://     
+[ID02,n.135 SLR]       
 
 
 -------------------
