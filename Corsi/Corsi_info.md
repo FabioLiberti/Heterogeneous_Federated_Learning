@@ -36,7 +36,7 @@ https://www.youtube.com/playlist?list=PLSIUOFhnxEiD9uihG5t9ABdPhSVqQ3HWA
 
 
 ### Owkin - Federated Learning
-Federated Learning Workshop
+Federated Learning Workshop    
 https://www.youtube.com/watch?v=GH7nwdqGypA
 
 
