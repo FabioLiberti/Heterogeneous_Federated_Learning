@@ -1,5 +1,18 @@
+# GitHub su Federated Learning (Research)
+Raccolta dei **repository** maggiormente significativi inerenti l'"_**Apprendimento automatico federato (decentralizzato)**_".
+ 
+## Indice
+- [GitHub su Federated Learning (Research)](#github-su-federated-learning-research)
+  - [Indice](#indice)
+    - [Dynamic Federated Learning](#dynamic-federated-learning)
 
-### CS-E4740 - Federated Learning
-Course offered during spring 2023 at Aalto University and to adult learners via Finnish Network University.
-https://github.com/alexjungaalto/FederatedLearning
+ 
+
+-------------
+
+
+### Dynamic Federated Learning   
+https://github.com/conditionWang/Dynamic-FL    
+
+
 
