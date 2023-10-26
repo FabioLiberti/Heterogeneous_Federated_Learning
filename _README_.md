@@ -79,7 +79,7 @@ https://academic.oup.com/bib/advance-article/doi/10.1093/bib/bbad269/7231518
 
 ## Applicazioni in Wireless Network
 
-* Hierarchical Federated Learning in Wireless Networks: Pruning Tackles Bandwidth Scarcity and System Heterogeneity (3 Agosto 2023) [n.?? SLR] 
+* Hierarchical Federated Learning in Wireless Networks: Pruning Tackles Bandwidth Scarcity and System Heterogeneity (3 Agosto 2023)   
 https://arxiv.org/pdf/2308.01562.pdf   
 [ID--,n.-- SLR]
 
@@ -148,12 +148,13 @@ https://
 
 ## Heterogeneous Federated Learning
 
-* (6) A Survey on Heterogeneous Federated Learning (10 Ottobre 2022) [n.141 SLR]
+* A Survey on Heterogeneous Federated Learning (10 Ottobre 2022)  
+https://   
+[ID06,n.141 SLR]
 
-* A Survey on Heterogeneous Federated learning
-Dashan Gao, Xin Yao, Fellow, Qiang Yang \
-https://
-PMID  PMCID:  DOI:
+* A Survey on Heterogeneous Federated learning      
+https://   
+[ID--,n.-- SLR]   
 
 * Heterogeneous Federated Learning: State-of-the-art and Research Challenges (08 Settembre 2023) [n.?? SLR] (https://arxiv.org/pdf/2307.10616.pdf)
 
