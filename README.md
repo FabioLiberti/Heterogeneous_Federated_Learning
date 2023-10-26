@@ -130,7 +130,7 @@ https://doi.org/10.48550/arXiv.2307.10616
 https://doi.org/10.1145/3580305.3599344     
 [ID--,n.-- SLR]
 
-* FS-Real: Towards Real-World Cross-Device Federated Learning (23/03/2023)     
+* FS-Real: Towards Real-World Cross-Device Federated Learning (23 Marzo 2023)     
 https://arxiv.org/abs/2303.13363     
 [ID--,n.-- SLR]
 
