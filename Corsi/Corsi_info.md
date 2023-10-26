@@ -44,7 +44,8 @@ https://www.youtube.com/watch?v=GH7nwdqGypA
 
 ### Inria - Federated Learning and Data Privacy
 Inria Centre at Université Côte d'Azur - Federated Learning & Data Privacy, 2022-2023    
-http://www-sop.inria.fr/members/Giovanni.Neglia/federatedlearning/
+http://www-sop.inria.fr/members/Giovanni.Neglia/federatedlearning/     
+https://gitlab.inria.fr/arodio/FedCourse23     
 
 
 
