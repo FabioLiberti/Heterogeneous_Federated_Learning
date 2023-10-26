@@ -9,6 +9,7 @@ Raccolta dei **repositories** maggiormente significativi inerenti l'"_**Apprendi
     - [Heterogeneous Federated Learning](#heterogeneous-federated-learning)
     - [Getting started with Federated Learning with Pytorch and PySyft](#getting-started-with-federated-learning-with-pytorch-and-pysyft)
     - [Vertical Federated Learning](#vertical-federated-learning)
+    - [Robust Federated Learning with Noisy and Heterogeneous Clients](#robust-federated-learning-with-noisy-and-heterogeneous-clients)
 
  
 
@@ -37,5 +38,10 @@ https://github.com/Boluwatifeh/Secure-AI
 ### Vertical Federated Learning     
 OpenMined - A project developing privacy-preserving, vertical federated learning, using syft (2021).       
 https://github.com/OpenMined/PyVertical       
+
+
+### Robust Federated Learning with Noisy and Heterogeneous Clients                  
+This repository provides resources for the following paper: [Robust Federated Learning with Noisy and Heterogeneous Client](CVPR 2022 Open Access Repository), Xiuwen Fang, Mang Ye CVPR 2022              
+https://github.com/FangXiuwen/Robust_FL          
 
 
