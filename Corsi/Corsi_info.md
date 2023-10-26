@@ -26,12 +26,12 @@ https://www.youtube.com/playlist?list=PLrbn2dGrLJK8c6hCQXBVFoYsPXG-g_75c
 
 
 ### Google - Federated Learning 
-Google Research Academic Relations 
+Google Research Academic Relations   
 https://www.youtube.com/watch?v=ssM0iQRR94E&t=5s    
 
 
 ### Google - Federated Learning 
-Google Workshop on Federated Learning and Analytics (2021)
+Google Workshop on Federated Learning and Analytics (2021)    
 https://www.youtube.com/playlist?list=PLSIUOFhnxEiD9uihG5t9ABdPhSVqQ3HWA
 
 
