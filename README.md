@@ -196,8 +196,8 @@ https://pubmed.ncbi.nlm.nih.gov/29500022/
 [ID--,n.-- SLR]
 
 * Federated learning-based AI approaches in smart healthcare: concepts, taxonomies, challenges and open issues (17 Giugno 2022)   
-https://   
-[ID01,n.158 SLR]
+https://pubmed.ncbi.nlm.nih.gov/35996680/         
+[ID01,n.158 SLR]     
 
 * Federated Learning for Data and Model Heterogeneity in Medical Imaging (31 Luglio 2023)  
 https://arxiv.org/pdf/2308.00155.pdf   
