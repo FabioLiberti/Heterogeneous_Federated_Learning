@@ -4,10 +4,10 @@ Raccolta dei **corsi universitari** maggiormente significativi inerenti l'"_**Ap
 ## Indice
 - [Corsi su Federated Learning (Research)](#corsi-su-federated-learning-research)
   - [Indice](#indice)
-    - [Standford - Federated Learning](#standford---federated-learning)
+    - [Standford - Generalization and Personalization in Federated Learning](#standford---generalization-and-personalization-in-federated-learning)
     - [Aalto - Federated Learning (CS-E4740)](#aalto---federated-learning-cs-e4740)
-    - [Google - Federated Learning](#google---federated-learning)
-    - [Google - Federated Learning](#google---federated-learning-1)
+    - [Google - Federated Learning \& Analytics Research Demos \& TFF Tutorials](#google---federated-learning--analytics-research-demos--tff-tutorials)
+    - [Google - Federated Learning and Analytics](#google---federated-learning-and-analytics)
     - [Owkin - Federated Learning](#owkin---federated-learning)
     - [Inria - Federated Learning](#inria---federated-learning)
 
@@ -16,8 +16,8 @@ Raccolta dei **corsi universitari** maggiormente significativi inerenti l'"_**Ap
 -------------
 
 
-### Standford - Federated Learning
-Stanford MedAI - Generalization and Personalization in Federated Learning         
+### Standford - Generalization and Personalization in Federated Learning   
+Stanford MedAI - Generalization and Personalization in Federated Learning (2022)       
 https://www.classcentral.com/classroom/youtube-generalization-and-personalization-in-federated-learning-karan-singhal-132497/63fd8e59bb25a
 
 
@@ -27,12 +27,12 @@ https://github.com/alexjungaalto/FederatedLearning
 https://www.youtube.com/playlist?list=PLrbn2dGrLJK8c6hCQXBVFoYsPXG-g_75c
 
 
-### Google - Federated Learning 
-Google Research Academic Relations   
+### Google - Federated Learning & Analytics Research Demos & TFF Tutorials
+Google Research Academic Relations (2021)   
 https://www.youtube.com/watch?v=ssM0iQRR94E&t=5s    
 
 
-### Google - Federated Learning 
+### Google - Federated Learning and Analytics
 Google Workshop on Federated Learning and Analytics (2021)    
 https://www.youtube.com/playlist?list=PLSIUOFhnxEiD9uihG5t9ABdPhSVqQ3HWA
 
