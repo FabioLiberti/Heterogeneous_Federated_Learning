@@ -41,11 +41,11 @@ https://arxiv.org/pdf/2207.10308.pdf
 ##  Federated Learning - *Survey*
 
 * Topology-aware Federated Learning in Edge Computing: A Comprehensive Survey (6 Febbraio 2023)   
-https://  
-[ID03,n.136 SLR]
+https://arxiv.org/abs/2302.02573       
+[ID03,n.136 SLR]    
 
 * Recent Advances on Federated Learning: A Systematic Survey (3 Gennaio 2023)   
-https://   
+https://arxiv.org/abs/2301.01299   
 [ID04,n.137 SLR]
 
 * Federated Learning for Edge Computing: A Survey (11 Settembre 2022)   
