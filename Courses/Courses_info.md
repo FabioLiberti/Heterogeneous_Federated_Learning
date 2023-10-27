@@ -1,4 +1,4 @@
-# Corsi su Federated Learning (Research)
+# **"Courses"** on *Heterogeneous Federated Learning* (Research)
 Raccolta dei **corsi universitari** maggiormente significativi inerenti l'"_**Apprendimento automatico federato (decentralizzato)**_".
  
 ## Indice
