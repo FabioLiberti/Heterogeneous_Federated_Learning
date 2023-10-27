@@ -91,6 +91,10 @@ https://openreview.net/forum?id=ZRkHGPMY3dd
 
 ## Heterogeneous Federated Learning
 
+* FLIPS: Federated Learning using intelligent participant selection (07 Agosto 2023)      
+https://arxiv.org/pdf/2308.03901.pdf     
+[ID--,n.-- SLR]   
+
 * A Practical Recipe for Federated Learning Under Statistical Heterogeneity Experimental Design (28 Luglio 2023)   
 https://arxiv.org/pdf/2307.15245.pdf  
 [ID--,n.-- SLR]   
