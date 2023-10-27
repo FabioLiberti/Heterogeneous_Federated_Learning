@@ -4,10 +4,10 @@ Selezione degli **articoli scientifici** maggiormente significativi inerenti l'"
 ## Indice
 - [Heterogeneous Federated Learning (Research)](#heterogeneous-federated-learning-research)
   - [Indice](#indice)
-    - [Articles \& Surveys](#articles--surveys)
-    - [Books \& Manuals](#books--manuals)
-    - [Codes](#codes)
-    - [Courses](#courses)
+    - [Articles \& Surveys   \<\[...\](Articles \& Surveys/Articles\_info.md "Articles \& Surveys")\>](#articles--surveys---articles--surveysarticles_infomd-articles--surveys)
+    - [Books \& Manuals   \<...\>](#books--manuals---)
+    - [Codes   \<...\>](#codes---)
+    - [Courses   \<...\>](#courses---)
     - [Repositories   \<...\>](#repositories---)
 
  
@@ -15,19 +15,19 @@ Selezione degli **articoli scientifici** maggiormente significativi inerenti l'"
 -------------
 
 
-### Articles & Surveys      
+### Articles & Surveys   <[...](Articles & Surveys/Articles_info.md "Articles & Surveys")>   
 
 -------------
 
-### Books & Manuals          
+### Books & Manuals   <[...](Repositories/Repositories_info.md "Repositories")>       
 
 -------------     
 
-### Codes      
+### Codes   <[...](Repositories/Repositories_info.md "Repositories")>   
 
 -------------
 
-### Courses     
+### Courses   <[...](Repositories/Repositories_info.md "Repositories")>  
 
 -------------    
 
