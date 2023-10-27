@@ -4,34 +4,34 @@ Selezione degli **articoli scientifici** maggiormente significativi inerenti l'"
 ## Indice
 - [Heterogeneous Federated Learning (Research)](#heterogeneous-federated-learning-research)
   - [Indice](#indice)
-  - [Articoli \& Surveys](#articoli--surveys)
-  - [Codes](#codes)
-  - [Corsi](#corsi)
-  - [Libri](#libri)
-- [Repositories](#repositories)
+    - [Articoli \& Surveys](#articoli--surveys)
+    - [Codes](#codes)
+    - [Corsi](#corsi)
+    - [Libri](#libri)
+    - [Repositories](#repositories)
 
  
 
 -------------
 
 
-## Articoli & Surveys      
+### Articoli & Surveys      
 
 -------------
 
-## Codes      
+### Codes      
 
 -------------
 
-## Corsi     
+### Corsi     
 
 -------------    
 
-## Libri          
+### Libri          
 
 -------------     
 
-# Repositories    
+### Repositories    
 
 
 -------------------
