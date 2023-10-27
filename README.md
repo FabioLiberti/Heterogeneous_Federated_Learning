@@ -16,12 +16,12 @@ Selezione degli **articoli scientifici** maggiormente significativi inerenti l'"
 
 
 ### Articles & Surveys   
-[...](<Articles & Surveys/Articles_info.md> "Articles & Surveys")   
+[[...](<Articles & Surveys/Articles_info.md> "Articles & Surveys")]   
 
 -------------
 
 ### Books & Manuals   
-<[...](Repositories/Repositories_info.md "Repositories")>       
+[<[...](<Books & Manuals/Books_info.md> "Books & Manuals")>]       
 
 -------------     
 
