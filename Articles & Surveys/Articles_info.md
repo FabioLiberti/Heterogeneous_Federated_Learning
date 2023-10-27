@@ -1,8 +1,8 @@
-# Heterogeneous Federated Learning (Research)
+# **Articles & Surveys** on Heterogeneous Federated Learning (Research)
 Selezione degli **articoli scientifici** maggiormente significativi inerenti l'"_**Apprendimento automatico federato (decentralizzato)**_" (dal 2021).
  
 ## Indice
-- [Heterogeneous Federated Learning (Research)](#heterogeneous-federated-learning-research)
+- [**Articles \& Surveys** on Heterogeneous Federated Learning (Research)](#articles--surveys-on-heterogeneous-federated-learning-research)
   - [Indice](#indice)
 - [ARTICOLI](#articoli)
   - [Federated Learning - *Benchmark*](#federated-learning---benchmark)
