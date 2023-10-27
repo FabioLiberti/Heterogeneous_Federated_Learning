@@ -1,9 +1,11 @@
 # Heterogeneous Federated Learning (Research)
-Selezione del **materiale informativo e documentale** maggiormente significativo e più recente inerente l'"_**Apprendimento automatico federato (decentralizzato)**_" (a partire dal 2020/2021 in poi).
+Selection of the most significant and most recent **information and documentary and educational material** relating to "_**Federated machine learning (decentralized)**_" (starting from 2020/2021).
+
+
  
-## Indice
+## Index
 - [Heterogeneous Federated Learning (Research)](#heterogeneous-federated-learning-research)
-  - [Indice](#indice)
+  - [Index](#index)
     - [Articles \& Surveys](#articles--surveys)
     - [Books \& Manuals](#books--manuals)
     - [Codes](#codes)
