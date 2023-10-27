@@ -1,5 +1,5 @@
 # Heterogeneous Federated Learning (Research)
-Selection of the most significant and most recent **information and documentary and educational material** relating to "_**Federated machine learning (decentralized)**_" (starting from 2020/2021).
+Selection of the most significant and most recent **educational and information material** relating to "_**Federated machine learning (decentralized)**_" (starting from 2020/2021).
 
 
  
