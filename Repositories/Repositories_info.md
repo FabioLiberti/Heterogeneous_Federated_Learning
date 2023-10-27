@@ -1,7 +1,7 @@
 # **"Repositories"** on *Heterogeneous Federated Learning* (Research)
 Selection of the most significant and most recent **repositories and tutorials** relating to "_**Federated machine learning (decentralized)**_" (starting from 2020/2021).
  
-## Indice
+## Index
 - [**"Repositories"** on *Heterogeneous Federated Learning* (Research)](#repositories-on-heterogeneous-federated-learning-research)
   - [Indice](#indice)
     - [Federated Learning in Security in Network Management](#federated-learning-in-security-in-network-management)

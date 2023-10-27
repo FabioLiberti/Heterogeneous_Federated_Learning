@@ -1,7 +1,7 @@
 # **"Courses"** on *Heterogeneous Federated Learning* (Research)
 Selection of the most significant and most recent **courses and seminars** relating to "_**Federated machine learning (decentralized)**_" (starting from 2020/2021).
  
-## Indice
+## Index
 - [**"Courses"** on *Heterogeneous Federated Learning* (Research)](#courses-on-heterogeneous-federated-learning-research)
   - [Indice](#indice)
     - [Standford - Generalization and Personalization in Federated Learning](#standford---generalization-and-personalization-in-federated-learning)
