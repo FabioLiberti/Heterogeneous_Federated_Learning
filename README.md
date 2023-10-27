@@ -21,17 +21,17 @@ Selezione degli **articoli scientifici** maggiormente significativi inerenti l'"
 -------------
 
 ### Books & Manuals   
-[<[...](<Books & Manuals/Books_info.md> "Books & Manuals")>]       
+[[...](<Books & Manuals/Books_info.md> "Books & Manuals")]       
 
 -------------     
 
 ### Codes   
-<[...](Repositories/Repositories_info.md "Repositories")>   
+[[...](<Codes/Codes_info.md "Codes")]   
 
 -------------
 
 ### Courses   
-<[...](Repositories/Repositories_info.md "Repositories")>  
+[[...](Courses/Courses_info.md "Courses")]  
 
 -------------    
 
