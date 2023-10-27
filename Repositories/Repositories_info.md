@@ -65,7 +65,7 @@ https://github.com/microsoft/msrflute
 
 
 ### LEAF: A Benchmark for Federated Learning      
-LEAF is a benchmark for Federated Settings (19 dicembre 2021).
+LEAF is a benchmark for Federated Settings (19 Dicembre 2021).      
 https://github.com/TalwalkarLab/leaf       
 
 
