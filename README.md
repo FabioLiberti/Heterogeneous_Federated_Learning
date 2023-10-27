@@ -16,7 +16,7 @@ Selezione degli **articoli scientifici** maggiormente significativi inerenti l'"
 
 
 ### Articles & Surveys   
-<[...](Articles_&_Surveys/Articles_info.md "Articles & Surveys")>   
+[...](Articles & Surveys/Articles_info.md "Articles & Surveys")   
 
 -------------
 
