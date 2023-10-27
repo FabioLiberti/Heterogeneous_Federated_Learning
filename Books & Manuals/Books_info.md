@@ -3,7 +3,7 @@ Selection of the most significant and most recent **books and manuals** relating
  
 ## Index
 - [**"Books \& Manuals"** on *Heterogeneous Federated Learning* (Research)](#books--manuals-on-heterogeneous-federated-learning-research)
-  - [Indice](#indice)
+  - [Index](#index)
     - [Deep Learning](#deep-learning)
 
  

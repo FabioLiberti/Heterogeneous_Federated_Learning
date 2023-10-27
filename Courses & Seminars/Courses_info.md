@@ -4,11 +4,11 @@ Selection of the most significant and most recent **courses and seminars** relat
 ## Index
 - [**"Courses \& Seminars"** on *Heterogeneous Federated Learning* (Research)](#courses--seminars-on-heterogeneous-federated-learning-research)
   - [Index](#index)
-  - [Courses](#courses)
+- [Courses](#courses)
     - [Standford - Generalization and Personalization in Federated Learning](#standford---generalization-and-personalization-in-federated-learning)
     - [Aalto - Federated Learning (CS-E4740)](#aalto---federated-learning-cs-e4740)
     - [Inria - Federated Learning and Data Privacy](#inria---federated-learning-and-data-privacy)
-  - [Seminars](#seminars)
+- [Seminars](#seminars)
     - [Google - Federated Learning \& Analytics Research Demos \& TFF Tutorials](#google---federated-learning--analytics-research-demos--tff-tutorials)
     - [Google - Federated Learning and Analytics](#google---federated-learning-and-analytics)
     - [Owkin - Federated Learning Workshop](#owkin---federated-learning-workshop)
@@ -18,7 +18,7 @@ Selection of the most significant and most recent **courses and seminars** relat
 
 -------------
 
-## Courses
+# Courses
 
 ### Standford - Generalization and Personalization in Federated Learning   
 **Stanford MedAI** - Generalization and Personalization in Federated Learning (2022)       
@@ -37,7 +37,7 @@ http://www-sop.inria.fr/members/Giovanni.Neglia/federatedlearning/
 https://gitlab.inria.fr/arodio/FedCourse23     
 
 
-## Seminars
+# Seminars
 
 ### Google - Federated Learning & Analytics Research Demos & TFF Tutorials
 **Google Research Academic Relations** (2021)   
