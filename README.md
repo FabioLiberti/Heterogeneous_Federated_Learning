@@ -8,8 +8,7 @@ Selezione degli **articoli scientifici** maggiormente significativi inerenti l'"
     - [Books \& Manuals](#books--manuals)
     - [Codes](#codes)
     - [Courses](#courses)
-    - [Repositories](#repositories)
-    - [Repositories](#repositories-1)
+    - [Repositories (...)](#repositories-)
 
  
 
@@ -32,10 +31,8 @@ Selezione degli **articoli scientifici** maggiormente significativi inerenti l'"
 
 -------------    
 
-### Repositories    
-
-
-### [Repositories](Repositories/Repositories_info.md "Repositories")   
+### Repositories ([...](Repositories/Repositories_info.md "Repositories"))   
+   
 
 
 -------------------       
