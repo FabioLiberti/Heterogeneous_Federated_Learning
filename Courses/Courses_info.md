@@ -2,7 +2,7 @@
 Raccolta dei **corsi universitari** maggiormente significativi inerenti l'"_**Apprendimento automatico federato (decentralizzato)**_".
  
 ## Indice
-- [Corsi su Federated Learning (Research)](#corsi-su-federated-learning-research)
+- [**"Courses"** on *Heterogeneous Federated Learning* (Research)](#courses-on-heterogeneous-federated-learning-research)
   - [Indice](#indice)
     - [Standford - Generalization and Personalization in Federated Learning](#standford---generalization-and-personalization-in-federated-learning)
     - [Aalto - Federated Learning (CS-E4740)](#aalto---federated-learning-cs-e4740)

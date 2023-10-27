@@ -2,7 +2,7 @@
 Raccolta dei **repositories** maggiormente significativi inerenti l'"_**Apprendimento automatico federato (decentralizzato)**_".
  
 ## Indice
-- [GitHub su Federated Learning (Research)](#github-su-federated-learning-research)
+- [**"Repositories"** on *Heterogeneous Federated Learning* (Research)](#repositories-on-heterogeneous-federated-learning-research)
   - [Indice](#indice)
     - [Federated Learning in Security in Network Management](#federated-learning-in-security-in-network-management)
     - [Dynamic Federated Learning](#dynamic-federated-learning)

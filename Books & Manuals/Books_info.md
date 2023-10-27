@@ -2,9 +2,9 @@
 Selezione dei **libri e manuali** maggiormente significativi inerenti l'"_**Apprendimento automatico federato (decentralizzato)**_" e materie affini (recenti).
  
 ## Indice
-- [Heterogeneous Federated Learning (Research)](#heterogeneous-federated-learning-research)
+- [**"Books \& Manuals"** on *Heterogeneous Federated Learning* (Research)](#books--manuals-on-heterogeneous-federated-learning-research)
   - [Indice](#indice)
-- [LIBRI](#libri)
+- [Books \& Manuals](#books--manuals)
   - [Deep Learning](#deep-learning)
 
  
@@ -12,7 +12,7 @@ Selezione dei **libri e manuali** maggiormente significativi inerenti l'"_**Appr
 -------------
 
 
-# LIBRI    
+# Books & Manuals    
 
 ##  Deep Learning    
 

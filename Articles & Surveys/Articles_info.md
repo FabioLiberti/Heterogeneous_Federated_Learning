@@ -4,7 +4,7 @@ Selezione degli **articoli scientifici** maggiormente significativi inerenti l'"
 ## Indice
 - [**"Articles \& Surveys"** on *Heterogeneous Federated Learning* (Research)](#articles--surveys-on-heterogeneous-federated-learning-research)
   - [Indice](#indice)
-- [ARTICOLI](#articoli)
+- [ARTICLES](#articles)
   - [Federated Learning - *Benchmark*](#federated-learning---benchmark)
   - [Federated Learning - *Survey*](#federated-learning---survey)
   - [Continual Learning](#continual-learning)
@@ -18,18 +18,18 @@ Selezione degli **articoli scientifici** maggiormente significativi inerenti l'"
   - [Personalized Federated Learning](#personalized-federated-learning)
   - [Split Learning](#split-learning)
   - [Trustworthy Federated Learning](#trustworthy-federated-learning)
-- [APPLICAZIONI](#applicazioni)
-  - [Applicazioni in *Edge Computing*](#applicazioni-in-edge-computing)
-  - [Applicazioni in *Industria*](#applicazioni-in-industria)
-  - [Applicazioni in *Sanità*](#applicazioni-in-sanità)
-  - [Applicazioni in *Wireless Network*](#applicazioni-in-wireless-network)
+- [APPLICATIONS](#applications)
+  - [Applications in *Edge Computing*](#applications-in-edge-computing)
+  - [Applications in *Healthcare*](#applications-in-healthcare)
+  - [Applications in *Industry*](#applications-in-industry)
+  - [Applications in *Wireless Network*](#applications-in-wireless-network)
 
  
 
 -------------
 
 
-# ARTICOLI
+# ARTICLES
 
 ##  Federated Learning - *Benchmark*
 
@@ -168,9 +168,9 @@ https://arxiv.org/abs/2302.10637
 -------------
 
 
-# APPLICAZIONI
+# APPLICATIONS
 
-## Applicazioni in *Edge Computing*
+## Applications in *Edge Computing*
 
 * Topology-aware Federated Learning in Edge Computing: A Comprehensive Survey (6 Febbraio 2023)   
   https://arxiv.org/abs/2302.02573  
@@ -189,10 +189,8 @@ https://arxiv.org/abs/2302.10637
   [ID10,n.84 SLR]
 
 
-## Applicazioni in *Industria*
 
-
-## Applicazioni in *Sanità*
+## Applications in *Healthcare*
 
 * Federated learning of predictive models from federated Electronic Health Records
 https://www.sciencedirect.com/science/article/abs/pii/S138650561830008X   
@@ -216,7 +214,11 @@ https://academic.oup.com/bib/advance-article/doi/10.1093/bib/bbad269/7231518
 [ID--,n.-- SLR]
 
 
-## Applicazioni in *Wireless Network*
+## Applications in *Industry*
+
+
+
+## Applications in *Wireless Network*
 
 * Hierarchical Federated Learning in Wireless Networks: Pruning Tackles Bandwidth Scarcity and System Heterogeneity (3 Agosto 2023)   
 https://arxiv.org/pdf/2308.01562.pdf   
