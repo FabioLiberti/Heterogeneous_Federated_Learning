@@ -57,15 +57,15 @@ https://www.mdpi.com/1424-8220/22/2/450
 [ID--,n.-- SLR]
 
 * Advancements in Federated Learning: Models, Methods, and Privacy (5 Marzo 2023)   
-https://   
-[ID05,n.159 SLR]
+https://arxiv.org/abs/2302.11466          
+[ID05,n.159 SLR]       
 
-* A Survey on Federated Learning Systems: Vision, Hype and Reality for Data Privacy and Protection (5 Dicembre 2021)  
-https://      
-[ID08,n.148 SLR]
+* A Survey on Federated Learning Systems: Vision, Hype and Reality for Data Privacy and Protection (5 Dicembre 2021)    
+https://arxiv.org/abs/1907.09693             
+[ID08,n.148 SLR]      
 
 * IEEE Guide for Architectural Framework and Application of Federated Machine Learning (2020)   
-https://    
+https://ieeexplore.ieee.org/document/9382202          
 [ID09,n.27 SLR]   
 
 
@@ -75,7 +75,7 @@ https://
 ## Decentral & Incentivized Federated Learning
 
 * Decentral and Incentivized Federated Learning Frameworks: A Systematic Literature Review (2022)  
-https://   
+https://arxiv.org/abs/2205.07855    
 [ID01,n.25 SLR]
 
 
@@ -100,12 +100,8 @@ https://arxiv.org/pdf/2307.15245.pdf
 [ID--,n.-- SLR]   
 
 * A Survey on Heterogeneous Federated Learning (10 Ottobre 2022)  
-https://   
+https://arxiv.org/abs/2210.04505             
 [ID06,n.141 SLR]
-
-* A Survey on Heterogeneous Federated learning      
-https://   
-[ID--,n.-- SLR]   
 
 * Heterogeneous Federated Learning: State-of-the-art and Research Challenges (08 Settembre 2023)   
 https://arxiv.org/pdf/2307.10616.pdf   
@@ -204,7 +200,7 @@ https://arxiv.org/pdf/1909.11875.pdf
 ## Applications in *Healthcare*
 
 * HarmoFL: Harmonizing Local and Global Drifts in Federated Learning on Heterogeneous Medical Images (2022)         
-https://       
+https://arxiv.org/abs/2112.10775             
 [ID--,n.-- SLR]    
 
 * Fed-BioMed: Open, Transparent and Trusted Federated Learning for Real-world Healthcare Applications (23 Marzo 2023)       
@@ -236,7 +232,7 @@ https://academic.oup.com/bib/advance-article/doi/10.1093/bib/bbad269/7231518
 ## Applications in *Industry*
 
 * Fusion of Federated Learning and Industrial Internet of Things: A Survey (04 Gennaio 2021)        
-https://                
+https://arxiv.org/abs/2101.00798                      
 [ID--,n.-- SLR]        
 
 
