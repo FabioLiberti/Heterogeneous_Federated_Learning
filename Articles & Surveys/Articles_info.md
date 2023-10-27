@@ -243,9 +243,7 @@ https://arxiv.org/pdf/2308.01562.pdf
 https://arxiv.org/pdf/2308.04953.pdf      
 [ID--,n.-- SLR]      
 
-* Hierarchical Federated Learning in Wireless Networks: Pruning Tackles Bandwidth Scarcity and System Heterogeneity (03 Agosto 2023)      
-https://arxiv.org/pdf/2308.01562.pdf       
-[ID--,n.-- SLR]       
+      
 
 
 
