@@ -200,7 +200,7 @@ https://arxiv.org/abs/2302.10637
 
 ## Applications in *Healthcare*
 
-* HarmoFL: Harmonizing Local and Global Drifts in Federated Learning on Heterogeneous Medical Images (2022)
+* HarmoFL: Harmonizing Local and Global Drifts in Federated Learning on Heterogeneous Medical Images (2022)         
 https://       
 [ID--,n.-- SLR]    
 
@@ -232,7 +232,7 @@ https://academic.oup.com/bib/advance-article/doi/10.1093/bib/bbad269/7231518
 
 ## Applications in *Industry*
 
-* Fusion of Federated Learning and Industrial Internet of Things: A Survey (04 Gennaio 2021)
+* Fusion of Federated Learning and Industrial Internet of Things: A Survey (04 Gennaio 2021)        
 https://                
 [ID--,n.-- SLR]        
 
