@@ -1,5 +1,5 @@
 # **"Repositories"** on *Heterogeneous Federated Learning* (Research)
-Raccolta dei **repositories** maggiormente significativi inerenti l'"_**Apprendimento automatico federato (decentralizzato)**_".
+Selection of the most significant and most recent **repositories and tutorials** relating to "_**Federated machine learning (decentralized)**_" (starting from 2020/2021).
  
 ## Indice
 - [**"Repositories"** on *Heterogeneous Federated Learning* (Research)](#repositories-on-heterogeneous-federated-learning-research)

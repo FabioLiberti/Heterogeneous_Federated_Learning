@@ -1,5 +1,5 @@
 # **"Courses"** on *Heterogeneous Federated Learning* (Research)
-Raccolta dei **corsi universitari** maggiormente significativi inerenti l'"_**Apprendimento automatico federato (decentralizzato)**_".
+Selection of the most significant and most recent **courses and seminars** relating to "_**Federated machine learning (decentralized)**_" (starting from 2020/2021).
  
 ## Indice
 - [**"Courses"** on *Heterogeneous Federated Learning* (Research)](#courses-on-heterogeneous-federated-learning-research)
