@@ -3,7 +3,7 @@ Selection of the most significant and most recent **repositories and tutorials**
  
 ## Index
 - [**"Repositories"** on *Heterogeneous Federated Learning* (Research)](#repositories-on-heterogeneous-federated-learning-research)
-  - [Indice](#indice)
+  - [Index](#index)
     - [Federated Learning in Security in Network Management](#federated-learning-in-security-in-network-management)
     - [Dynamic Federated Learning](#dynamic-federated-learning)
     - [Heterogeneous Federated Learning](#heterogeneous-federated-learning)
@@ -12,6 +12,8 @@ Selection of the most significant and most recent **repositories and tutorials**
     - [Robust Federated Learning with Noisy and Heterogeneous Clients](#robust-federated-learning-with-noisy-and-heterogeneous-clients)
     - [Flower: A Friendly Federated Learning Framework](#flower-a-friendly-federated-learning-framework)
     - [FederatedScope - *Playground*](#federatedscope---playground)
+    - [FLUTE](#flute)
+    - [LEAF: A Benchmark for Federated Learning](#leaf-a-benchmark-for-federated-learning)
 
  
 
@@ -55,6 +57,18 @@ https://github.com/adap/flower
 ### FederatedScope - *Playground*
 FederatedScope, a comprehensive federated learning platform with event-driven architecture, aims to provide easy-to-use and flexible support for users who want to get started and customize task-specific FL procedures quickly (2022).   
 https://colab.research.google.com/github/alibaba/FederatedScope     
+
+
+### FLUTE         
+FLUTE (Federated Learning Utilities for Testing and Experimentation), a platform for conducting high-performance federated learning simulations.           
+https://github.com/microsoft/msrflute         
+
+
+### LEAF: A Benchmark for Federated Learning      
+LEAF is a benchmark for Federated Settings.
+https://github.com/TalwalkarLab/leaf       
+
+
 
 
 ----------------------
