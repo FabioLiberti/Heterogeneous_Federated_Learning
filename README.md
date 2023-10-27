@@ -9,7 +9,7 @@ Selezione degli **articoli scientifici** maggiormente significativi inerenti l'"
     - [Codes](#codes)
     - [Courses](#courses)
     - [Repositories](#repositories)
-    - [Repositories1](#repositories1)
+    - [Repositories1 Repositories](#repositories1-repositories)
 
  
 
@@ -35,9 +35,9 @@ Selezione degli **articoli scientifici** maggiormente significativi inerenti l'"
 ### Repositories    
 
 
-### Repositories1    
+### Repositories1 [Repositories](Repositories/Repositories_info.md "Repositories")   
 
-[Repositories](Repositories/Repositories_info.md "Repositories")
 
 -------------------       
 
+[Repositories](Repositories/Repositories_info.md "Repositories")
