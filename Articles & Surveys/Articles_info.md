@@ -91,6 +91,10 @@ https://openreview.net/forum?id=ZRkHGPMY3dd
 
 ## Heterogeneous Federated Learning
 
+* A Practical Recipe for Federated Learning Under Statistical Heterogeneity Experimental Design (28 Luglio 2023)   
+https://arxiv.org/pdf/2307.15245.pdf  
+[ID--,n.-- SLR]   
+
 * A Survey on Heterogeneous Federated Learning (10 Ottobre 2022)  
 https://   
 [ID06,n.141 SLR]
@@ -192,6 +196,14 @@ https://arxiv.org/abs/2302.10637
 
 ## Applications in *Healthcare*
 
+* HarmoFL: Harmonizing Local and Global Drifts in Federated Learning on Heterogeneous Medical Images (2022)
+https://       
+[ID--,n.-- SLR]    
+
+* Fed-BioMed: Open, Transparent and Trusted Federated Learning for Real-world Healthcare Applications (23 Marzo 2023)       
+https://arxiv.org/pdf/2304.12012.pdf     
+[ID--,n.-- SLR]      
+
 * Federated learning of predictive models from federated Electronic Health Records
 https://www.sciencedirect.com/science/article/abs/pii/S138650561830008X   
 https://pubmed.ncbi.nlm.nih.gov/29500022/   
@@ -216,12 +228,23 @@ https://academic.oup.com/bib/advance-article/doi/10.1093/bib/bbad269/7231518
 
 ## Applications in *Industry*
 
+* Fusion of Federated Learning and Industrial Internet of Things: A Survey (04 Gennaio 2021)
+https://                
+[ID--,n.-- SLR]        
 
 
 ## Applications in *Wireless Network*
 
 * Hierarchical Federated Learning in Wireless Networks: Pruning Tackles Bandwidth Scarcity and System Heterogeneity (3 Agosto 2023)   
 https://arxiv.org/pdf/2308.01562.pdf   
+[ID--,n.-- SLR]      
+
+* Wirelessly Powered Federated Learning Networks: Joint Power Transfer, Data Sensing, Model Training, and Resource Allocation (09 Agosto 2023)      
+https://arxiv.org/pdf/2308.04953.pdf      
+[ID--,n.-- SLR]      
+
+* Hierarchical Federated Learning in Wireless Networks: Pruning Tackles Bandwidth Scarcity and System Heterogeneity (03 Agosto 2023)      
+https://arxiv.org/pdf/2308.01562.pdf
 [ID--,n.-- SLR]
 
 
