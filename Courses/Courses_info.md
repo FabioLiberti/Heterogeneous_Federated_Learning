@@ -3,13 +3,14 @@ Selection of the most significant and most recent **courses and seminars** relat
  
 ## Index
 - [**"Courses"** on *Heterogeneous Federated Learning* (Research)](#courses-on-heterogeneous-federated-learning-research)
-  - [Indice](#indice)
+  - [Index](#index)
     - [Standford - Generalization and Personalization in Federated Learning](#standford---generalization-and-personalization-in-federated-learning)
     - [Aalto - Federated Learning (CS-E4740)](#aalto---federated-learning-cs-e4740)
     - [Inria - Federated Learning and Data Privacy](#inria---federated-learning-and-data-privacy)
     - [Google - Federated Learning \& Analytics Research Demos \& TFF Tutorials](#google---federated-learning--analytics-research-demos--tff-tutorials)
     - [Google - Federated Learning and Analytics](#google---federated-learning-and-analytics)
     - [Owkin - Federated Learning Workshop](#owkin---federated-learning-workshop)
+    - [CrossFL-2022: Workshop on Cross-Community Federated Learning: Algorithms, Systems and Co-designs](#crossfl-2022-workshop-on-cross-community-federated-learning-algorithms-systems-and-co-designs)
 
  
 
@@ -46,6 +47,12 @@ https://www.youtube.com/playlist?list=PLSIUOFhnxEiD9uihG5t9ABdPhSVqQ3HWA
 ### Owkin - Federated Learning Workshop
 **Owkin (AI biotechnology company)** - Federated Learning Workshop (2021)    
 https://www.youtube.com/watch?v=GH7nwdqGypA
+
+
+### CrossFL-2022: Workshop on Cross-Community Federated Learning: Algorithms, Systems and Co-designs      
+CrossFL-2022: Workshop on Cross-Community Federated Learning: Algorithms, Systems and Co-designs, co-located with MLSys2022 (Hybrid workshop in Santa Clara Convention Center, CA and virtual) on September 1, 2022.              
+https://crossfl2022.github.io/       
+https://www.youtube.com/watch?v=0mV85uGMpXA         
 
 
 
