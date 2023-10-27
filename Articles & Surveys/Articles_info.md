@@ -196,6 +196,9 @@ https://arxiv.org/abs/2302.10637
   https://arxiv.org/abs/2207.09611  
   [ID10,n.84 SLR]
 
+* Federated Learning in Mobile Edge Networks: A Comprehensive Survey (28 Febbraio 2020)       
+https://arxiv.org/pdf/1909.11875.pdf    
+  [ID10,n.84 SLR]       
 
 
 ## Applications in *Healthcare*
