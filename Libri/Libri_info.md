@@ -1,5 +1,5 @@
 # Heterogeneous Federated Learning (Research)
-Selezione dei **libri** maggiormente significativi inerenti l'"_**Apprendimento automatico federato (decentralizzato)**_" e materie affini.
+Selezione dei **libri** maggiormente significativi inerenti l'"_**Apprendimento automatico federato (decentralizzato)**_" e materie affini (recenti).
  
 ## Indice
 - [Heterogeneous Federated Learning (Research)](#heterogeneous-federated-learning-research)
