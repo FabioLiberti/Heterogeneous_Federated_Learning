@@ -9,7 +9,7 @@ Selection of the most significant and most recent **educational and information 
     - [Articles \& Surveys](#articles--surveys)
     - [Books \& Manuals](#books--manuals)
     - [Codes](#codes)
-    - [Courses](#courses)
+    - [Courses \& Seminars](#courses--seminars)
     - [Repositories](#repositories)
 
  
@@ -32,8 +32,8 @@ Selection of the most significant and most recent **educational and information 
 
 -------------
 
-### Courses   
-[[...](<Courses/Courses_info.md> "Courses")]  
+### Courses & Seminars  
+[[...](<Courses & Seminars/Courses_info.md> "Courses")]  
 
 -------------    
 
