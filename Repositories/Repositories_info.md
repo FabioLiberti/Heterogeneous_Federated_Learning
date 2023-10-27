@@ -39,6 +39,7 @@ https://github.com/marswhu/HFL_Survey
 This repository contains submission for the 2020 Facebook developers circle community challenge. We will be discussing about privacy preserving machine learning tools built on top of pytorch alongside tutorials for technical implementations. (2021).        
 https://github.com/Boluwatifeh/Secure-AI       
 
+
 ### Vertical Federated Learning     
 OpenMined - A project developing privacy-preserving, vertical federated learning, using syft (2021).       
 https://github.com/OpenMined/PyVertical       
