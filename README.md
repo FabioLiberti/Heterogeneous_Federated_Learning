@@ -7,6 +7,7 @@ Selezione degli **articoli scientifici** maggiormente significativi inerenti l'"
   - [Articoli \& Surveys](#articoli--surveys)
   - [Codes](#codes)
   - [Corsi](#corsi)
+  - [Libri](#libri)
 - [Repositories](#repositories)
 
  
@@ -24,7 +25,11 @@ Selezione degli **articoli scientifici** maggiormente significativi inerenti l'"
 
 ## Corsi     
 
--------------
+-------------    
+
+## Libri          
+
+-------------     
 
 # Repositories    
 
