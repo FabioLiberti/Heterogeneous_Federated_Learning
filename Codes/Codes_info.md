@@ -133,7 +133,7 @@ Manage communication between devices or servers and ensure the system is scalabl
 Document your Federated Learning system thoroughly and test it thoroughly to ensure it works properly.     
 Below is a simplified example of Python code using TensorFlow Federated (TFF), a framework for Federated Learning:
 
-[[...](<Codes/Codes2.ipynb> "Codes2")]     
+[[...](Codes2.ipynb> "Codes2")]     
 
 
 ----------------------
