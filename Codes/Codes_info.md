@@ -57,9 +57,8 @@ The model is deployed to devices so they can use the model to make predictions.
 The performance of the model is evaluated using the test set.
 
 
-[[...](Codes/TensorFlow_Intro.ipynb "TensorFlow Example")]
+[[...](TensorFlow_Intro.ipynb "TensorFlow Example")]
 
-Codes/TensorFlow_Intro.ipynb
 
 ## Additional steps
 
