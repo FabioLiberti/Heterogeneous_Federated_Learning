@@ -12,7 +12,7 @@ Selection of the most significant and most recent **repositories and tutorials**
     - [Robust Federated Learning with Noisy and Heterogeneous Clients](#robust-federated-learning-with-noisy-and-heterogeneous-clients)
     - [Flower: A Friendly Federated Learning Framework](#flower-a-friendly-federated-learning-framework)
     - [FederatedScope - *Playground*](#federatedscope---playground)
-    - [FLUTE Federated Learning Utilities for Testing and Experimentation](#flute-federated-learning-utilities-for-testing-and-experimentation)
+    - [FLUTE:  Federated Learning Utilities for Testing and Experimentation](#flute--federated-learning-utilities-for-testing-and-experimentation)
     - [LEAF: A Benchmark for Federated Learning](#leaf-a-benchmark-for-federated-learning)
 
  
@@ -60,7 +60,7 @@ FederatedScope, a comprehensive federated learning platform with event-driven ar
 https://colab.research.google.com/github/alibaba/FederatedScope     
 
 
-### FLUTE Federated Learning Utilities for Testing and Experimentation        
+### FLUTE:  Federated Learning Utilities for Testing and Experimentation        
 FLUTE (Federated Learning Utilities for Testing and Experimentation), a platform for conducting high-performance federated learning simulations.           
 https://github.com/microsoft/msrflute         
 
