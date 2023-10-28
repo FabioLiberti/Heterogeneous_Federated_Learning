@@ -1,8 +1,8 @@
-# **"Courses & Seminars"** on *Heterogeneous Federated Learning* (Research)
+# **"Codes"** on *Heterogeneous Federated Learning* (Research)
 Below is an example of basic *federated learning system development*."
  
 ## Index
-- [**"Courses \& Seminars"** on *Heterogeneous Federated Learning* (Research)](#courses--seminars-on-heterogeneous-federated-learning-research)
+- [**"Codes"** on *Heterogeneous Federated Learning* (Research)](#codes-on-heterogeneous-federated-learning-research)
   - [Index](#index)
 - [1. Preparazione dei dati](#1-preparazione-dei-dati)
 - [2. Implementazione del modello](#2-implementazione-del-modello)
@@ -41,7 +41,7 @@ Il modello viene distribuito ai dispositivi in modo che possano utilizzare il mo
 Le prestazioni del modello vengono valutate utilizzando il set di test.
 
 
-[[...](<Codes/TensorFlow.ipynb> "TensorFlow Example")]
+[[...](<Codes/TensorFlow_intro.ipynb> "TensorFlow Example")]
 
 
 # Passaggi aggiuntivi
