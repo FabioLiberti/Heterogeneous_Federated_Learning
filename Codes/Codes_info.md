@@ -41,7 +41,7 @@ Il modello viene distribuito ai dispositivi in modo che possano utilizzare il mo
 Le prestazioni del modello vengono valutate utilizzando il set di test.
 
 
-[[...](<Codes/TensorFlow_Intro.ipynb> "TensorFlow Example")]
+[[...](<../TensorFlow_Intro.ipynb> "TensorFlow Example")]
 
 
 # Passaggi aggiuntivi
