@@ -33,7 +33,7 @@ Below is an example of basic *federated learning system development*."
 
 ## 1. Data preparation
 
-The first step is to prepare the data that will be used to train the model.    
+The first step is to prepare the data that will be used to train the model.
 The data needs to be split into two sets: a training set and a test set.     
 The training set will be used to train the model, while the test set will be used to evaluate the model's performance.
 
