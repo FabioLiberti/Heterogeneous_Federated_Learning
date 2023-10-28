@@ -1,8 +1,8 @@
-# **"Codes"** on *Heterogeneous Federated Learning* (Research)
+# **"Codes & Tutorials"** on *Heterogeneous Federated Learning* (Research)
 Below is an example of basic *federated learning system development*."
  
 ## Index
-- [**"Codes"** on *Heterogeneous Federated Learning* (Research)](#codes-on-heterogeneous-federated-learning-research)
+- [**"Codes \& Tutorials"** on *Heterogeneous Federated Learning* (Research)](#codes--tutorials-on-heterogeneous-federated-learning-research)
   - [Index](#index)
 - [SHORT ROUTE](#short-route)
   - [1. Data preparation](#1-data-preparation)

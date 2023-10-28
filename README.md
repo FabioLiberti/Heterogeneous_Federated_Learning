@@ -8,7 +8,7 @@ Selection of the most significant and most recent **educational and information 
   - [Index](#index)
     - [Articles \& Surveys](#articles--surveys)
     - [Books \& Manuals](#books--manuals)
-    - [Codes](#codes)
+    - [Codes \& Tutorials](#codes--tutorials)
     - [Courses \& Seminars](#courses--seminars)
     - [Repositories](#repositories)
 
@@ -26,7 +26,7 @@ Selection of the most significant and most recent **educational and information 
 
 -------------     
 
-### Codes   
+### Codes & Tutorials  
 [[...](<Codes/Codes_info.md> "Codes")]   
 
 -------------
