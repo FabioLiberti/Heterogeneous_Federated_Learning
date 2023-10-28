@@ -59,6 +59,53 @@ The performance of the model is evaluated using the test set.
 
 [[...](TensorFlow_Intro.ipynb "TensorFlow Example")]
 
+```python
+import numpy as np
+import tensorflow as tf
+
+# Preparazione dei dati
+
+# Importa il dataset
+data = np.loadtxt("data.csv", delimiter=",")
+
+# Dividi i dati in set di addestramento e test
+X_train, X_test, y_train, y_test = train_test_split(data, test_size=0.2)
+
+# Implementazione del modello
+
+# Crea un modello di rete neurale
+model = tf.keras.models.Sequential([
+    tf.keras.layers.Dense(128, activation="relu"),
+    tf.keras.layers.Dense(10, activation="softmax")
+])
+
+# Compila il modello
+model.compile(optimizer="adam", loss="sparse_categorical_crossentropy", metrics=["accuracy"])
+
+# Addestramento del modello
+model.fit(X_train, y_train, epochs=10)
+
+# Sviluppo dell'architettura di federated learning
+
+# Crea un aggregatore
+aggregator = tf.distribute.experimental.federated_aggregator()
+
+# Distribuzione del modello
+
+# Distribuisci il modello ai dispositivi
+for device in devices:
+    device.assign(model)
+
+# Valutazione del modello
+
+# Calcola le prestazioni del modello
+accuracy = aggregator.aggregate(
+    [device.evaluate(X_test, y_test) for device in devices]
+)
+
+print("Accuracy:", accuracy)
+
+```
 
 ## Additional steps
 
