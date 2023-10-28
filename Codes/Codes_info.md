@@ -169,14 +169,6 @@ for round_num in range(num_rounds):
 ```
 
 
-
-
 ----------------------
-
-```python
-[[...](Codes2.ipynb "Example")]
-```
-
-[[...](TensorFlow_Intro.ipynb "TensorFlow Example")]
 
 
