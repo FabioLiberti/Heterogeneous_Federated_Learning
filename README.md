@@ -27,7 +27,7 @@ Selection of the most significant and most recent **educational and information 
 -------------     
 
 ### Codes & Tutorials  
-[[...](<Codes/Codes_info.md> "Codes")]   
+[[...](<Codes & Tutorials/Codes_info.md> "Codes")]   
 
 -------------
 
