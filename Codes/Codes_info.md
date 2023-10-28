@@ -4,59 +4,66 @@ Below is an example of basic *federated learning system development*."
 ## Index
 - [**"Codes"** on *Heterogeneous Federated Learning* (Research)](#codes-on-heterogeneous-federated-learning-research)
   - [Index](#index)
-- [1. Preparazione dei dati](#1-preparazione-dei-dati)
-- [2. Implementazione del modello](#2-implementazione-del-modello)
-- [3. Sviluppo dell'architettura di federated learning](#3-sviluppo-dellarchitettura-di-federated-learning)
-- [4. Distribuzione del modello](#4-distribuzione-del-modello)
-- [5. Valutazione del modello](#5-valutazione-del-modello)
-- [Passaggi aggiuntivi](#passaggi-aggiuntivi)
-  - [Crittografia dei dati](#crittografia-dei-dati)
-  - [Tecniche di compressione dei dati](#tecniche-di-compressione-dei-dati)
-  - [Tecniche di ottimizzazione](#tecniche-di-ottimizzazione)
-- [Conclusione](#conclusione)
+- [1. Data preparation](#1-data-preparation)
+- [2. Model implementation](#2-model-implementation)
+- [3. Development of the federated learning architecture](#3-development-of-the-federated-learning-architecture)
+- [4. Model deployment](#4-model-deployment)
+- [5. Model evaluation](#5-model-evaluation)
+- [Additional steps](#additional-steps)
+  - [Data encryption](#data-encryption)
+  - [Data compression techniques](#data-compression-techniques)
+  - [Optimization techniques](#optimization-techniques)
+- [Conclusion](#conclusion)
 
  
 
 -------------
 
 
-# 1. Preparazione dei dati
+# 1. Data preparation
 
-Il primo passo è preparare i dati che verranno utilizzati per addestrare il modello. I dati devono essere suddivisi in due set: un set di addestramento e un set di test. Il set di addestramento verrà utilizzato per addestrare il modello, mentre il set di test verrà utilizzato per valutare le prestazioni del modello.
+The first step is to prepare the data that will be used to train the model.    
+The data needs to be split into two sets: a training set and a test set.     
+The training set will be used to train the model, while the test set will be used to evaluate the model's performance.
 
-# 2. Implementazione del modello
+# 2. Model implementation
 
-Il passo successivo è implementare il modello che verrà utilizzato per addestrare e valutare i dati. Il modello può essere qualsiasi modello di apprendimento automatico, come una rete neurale, un classificatore decisionale o un albero decisionale.
+The next step is to implement the model that will be used to train and evaluate the data.     
+The model can be any machine learning model, such as a neural network, decision classifier, or decision tree.
 
-# 3. Sviluppo dell'architettura di federated learning
+# 3. Development of the federated learning architecture
 
-L'architettura di federated learning è responsabile della raccolta dei dati da più dispositivi, dell'addestramento del modello e della distribuzione del modello aggiornato ai dispositivi.
+The federated learning architecture is responsible for collecting data from multiple devices, training the model, and distributing the updated model to the devices.
 
-# 4. Distribuzione del modello
+# 4. Model deployment
 
-Il modello viene distribuito ai dispositivi in modo che possano utilizzare il modello per effettuare previsioni.
+The model is deployed to devices so they can use the model to make predictions.
 
-# 5. Valutazione del modello
+# 5. Model evaluation
 
-Le prestazioni del modello vengono valutate utilizzando il set di test.
+The performance of the model is evaluated using the test set.
 
 
 [[...](Codes/TensorFlow_Intro.ipynb "TensorFlow Example")]
 
 
-# Passaggi aggiuntivi
+# Additional steps
 
-Oltre ai passaggi sopra descritti, è possibile implementare le seguenti funzionalità per migliorare le prestazioni di un sistema di federated learning:
+In addition to the steps described above, the following features can be implemented to improve the performance of a federated learning system:
 
-## Crittografia dei dati
-I dati sensibili possono essere crittografati prima di essere inviati ai dispositivi. Ciò aiuta a proteggere la privacy degli utenti.
+## Data encryption
+Sensitive data can be encrypted before being sent to devices.    
+This helps protect user privacy.
 
-## Tecniche di compressione dei dati
-I dati possono essere compressi prima di essere inviati ai dispositivi. Ciò aiuta a ridurre la quantità di dati che devono essere trasferiti.
+## Data compression techniques
+Data can be compressed before being sent to devices.   
+This helps reduce the amount of data that needs to be transferred.
 
-## Tecniche di ottimizzazione
-Le tecniche di ottimizzazione possono essere utilizzate per migliorare le prestazioni del processo di addestramento.
+## Optimization techniques
+Optimization techniques can be used to improve the performance of the training process.
 
-# Conclusione
+# Conclusion
 
-Lo sviluppo di un sistema di federated learning richiede una comprensione dei concetti di apprendimento automatico e federated learning. Il codice Python sopra riportato fornisce un punto di partenza per implementare un sistema di federated learning.
+Developing a federated learning system requires an understanding of the concepts of machine learning and federated learning.    
+
+---------------------
