@@ -9,7 +9,7 @@ Below is an example of basic *federated learning system development*."
   - [2. Model implementation](#2-model-implementation)
   - [3. Development of the federated learning architecture](#3-development-of-the-federated-learning-architecture)
   - [4. Model deployment](#4-model-deployment)
-  - [5. Model evaluation](#5-model-evaluation)
+  - [5. Model evaluation \[...\]](#5-model-evaluation-)
   - [Additional steps](#additional-steps)
     - [Data encryption](#data-encryption)
     - [Data compression techniques](#data-compression-techniques)
@@ -25,7 +25,7 @@ Below is an example of basic *federated learning system development*."
   - [7. Model Rating:](#7-model-rating)
   - [8. Security and privacy implementation:](#8-security-and-privacy-implementation)
   - [9. Scalability and communications management:](#9-scalability-and-communications-management)
-  - [10. Documentation and testing:](#10-documentation-and-testing)
+  - [10. Documentation and testing: \[...\]](#10-documentation-and-testing-)
 
  
 
@@ -52,7 +52,7 @@ The federated learning architecture is responsible for collecting data from mult
 
 The model is deployed to devices so they can use the model to make predictions.
 
-## 5. Model evaluation
+## 5. Model evaluation [...]
 
 The performance of the model is evaluated using the test set.
 
@@ -175,7 +175,7 @@ You may need to use techniques such as encryption or removal of sensitive data.
 
 Manage communication between devices or servers and ensure the system is scalable for a growing number of participants.
 
-## 10. Documentation and testing:
+## 10. Documentation and testing: [...]
 
 Document your Federated Learning system thoroughly and test it thoroughly to ensure it works properly.     
 Below is a simplified example of Python code using TensorFlow Federated (TFF), a framework for Federated Learning:
