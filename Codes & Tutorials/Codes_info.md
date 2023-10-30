@@ -61,7 +61,7 @@ The performance of the model is evaluated using the test set.
 import numpy as np
 import tensorflow as tf
 
-# Preparazione dei dati
+# Data preparation
 
 # Importa il dataset
 data = np.loadtxt("data.csv", delimiter=",")

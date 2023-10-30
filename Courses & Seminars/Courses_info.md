@@ -13,6 +13,7 @@ Selection of the most significant and most recent **courses and seminars** relat
     - [Google - Federated Learning and Analytics](#google---federated-learning-and-analytics)
     - [Owkin - Federated Learning Workshop](#owkin---federated-learning-workshop)
     - [CrossFL-2022: Workshop on Cross-Community Federated Learning: Algorithms, Systems and Co-designs](#crossfl-2022-workshop-on-cross-community-federated-learning-algorithms-systems-and-co-designs)
+    - [ICPP-2022: International Conference on Parallel Processing - Optimization of Federated Learning](#icpp-2022-international-conference-on-parallel-processing---optimization-of-federated-learning)
 
  
 
@@ -59,6 +60,10 @@ CrossFL-2022: Workshop on Cross-Community Federated Learning: Algorithms, System
 https://crossfl2022.github.io/       
 https://www.youtube.com/watch?v=0mV85uGMpXA         
 
+
+### ICPP-2022: International Conference on Parallel Processing - Optimization of Federated Learning      
+51st , ICPP 2022, Bordeaux, France, 29 August 2022 - 1 September 2022. ACM 2022, ISBN 978-1-4503-9733-9 
+https://www.youtube.com/playlist?list=PLv0Xcy0uv4R-LIx095HKVFEqwiMpcLtzq
 
 
 ----------------------
