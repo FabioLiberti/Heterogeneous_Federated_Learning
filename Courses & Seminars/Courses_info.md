@@ -64,6 +64,8 @@ https://www.youtube.com/watch?v=0mV85uGMpXA
 ### ICPP-2022: International Conference on Parallel Processing - Optimization of Federated Learning      
 51st , ICPP 2022, Bordeaux, France, 29 August 2022 - 1 September 2022. ACM 2022, ISBN 978-1-4503-9733-9 
 https://www.youtube.com/playlist?list=PLv0Xcy0uv4R-LIx095HKVFEqwiMpcLtzq
+https://dblp.org/db/conf/icpp/icpp2022.html
+https://www.youtube.com/channel/UClatrkkqDhN-5xgSt3pBrJQ/playlists
 
 
 ----------------------
