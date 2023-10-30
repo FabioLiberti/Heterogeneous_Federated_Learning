@@ -83,20 +83,20 @@ model.compile(optimizer="adam", loss="sparse_categorical_crossentropy", metrics=
 # Train Modello
 model.fit(X_train, y_train, epochs=10)
 
-# Development of the federated learning architecture
+# Development of the Federated Learning Architecture
 
-# Crea un aggregatore
+# Create an Aggregator
 aggregator = tf.distribute.experimental.federated_aggregator()
 
-# Distribuzione del modello
+# Model deployment
 
-# Distribuisci il modello ai dispositivi
+# Deployment of the Model to the Devices
 for device in devices:
     device.assign(model)
 
-# Valutazione del modello
+# Model evaluation
 
-# Calcola le prestazioni del modello
+# Calculation of Model Performance
 accuracy = aggregator.aggregate(
     [device.evaluate(X_test, y_test) for device in devices]
 )
