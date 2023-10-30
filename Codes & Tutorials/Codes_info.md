@@ -185,24 +185,24 @@ Below is a simplified example of Python code using TensorFlow Federated (TFF), a
 ```python
 import tensorflow_federated as tff
 
-# Definisci un modello globale
+# Define a Global Model
 global_model = ...
 
-# Crea un server TFF
+# Create a TFF server
 def create_server():
     return tff.learning.framework.ServerState(
         model=global_model,
         optimizer=...,
     )
 
-# Crea un client TFF
+# Create a TFF client
 def create_client():
     return tff.learning.framework.ClientState(
         model=global_model,
         optimizer=...,
     )
 
-# Esegui il processo di Federated Learning
+# Run the Federated Learning Process
 for round_num in range(num_rounds):
     server_state, client_output = tff.learning.framework.build_federated_averaging_process(
         model_fn=create_server,
