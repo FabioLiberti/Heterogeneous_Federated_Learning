@@ -14,6 +14,7 @@ Selection of the most significant and most recent **courses and seminars** relat
     - [Owkin - Federated Learning Workshop](#owkin---federated-learning-workshop)
     - [CrossFL-2022: Workshop on Cross-Community Federated Learning: Algorithms, Systems and Co-designs](#crossfl-2022-workshop-on-cross-community-federated-learning-algorithms-systems-and-co-designs)
     - [ICPP-2022: International Conference on Parallel Processing - Optimization of Federated Learning](#icpp-2022-international-conference-on-parallel-processing---optimization-of-federated-learning)
+    - [solid lab Federated Education (FeDucation) Webinar Series](#solid-lab-federated-education-feducation-webinar-series)
 
  
 
@@ -67,5 +68,8 @@ https://www.youtube.com/playlist?list=PLv0Xcy0uv4R-LIx095HKVFEqwiMpcLtzq
 https://dblp.org/db/conf/icpp/icpp2022.html     
 https://www.youtube.com/channel/UClatrkkqDhN-5xgSt3pBrJQ/playlists
 
+
+### solid lab Federated Education (FeDucation) Webinar Series
+https://www.youtube.com/playlist?list=PL5rL3r7iMBQMa61d06E95vOeuzgSrtR46
 
 ----------------------
