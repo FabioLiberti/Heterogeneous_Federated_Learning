@@ -63,27 +63,27 @@ import tensorflow as tf
 
 # Data preparation
 
-# Importa il dataset
+# Import Dataset
 data = np.loadtxt("data.csv", delimiter=",")
 
-# Dividi i dati in set di addestramento e test
+# Split the data into training and test sets
 X_train, X_test, y_train, y_test = train_test_split(data, test_size=0.2)
 
-# Implementazione del modello
+# Model Implementation
 
-# Crea un modello di rete neurale
+# Create Create a Neural Network Model
 model = tf.keras.models.Sequential([
     tf.keras.layers.Dense(128, activation="relu"),
     tf.keras.layers.Dense(10, activation="softmax")
 ])
 
-# Compila il modello
+# Compile Model
 model.compile(optimizer="adam", loss="sparse_categorical_crossentropy", metrics=["accuracy"])
 
-# Addestramento del modello
+# Train Modello
 model.fit(X_train, y_train, epochs=10)
 
-# Sviluppo dell'architettura di federated learning
+# Development of the federated learning architecture
 
 # Crea un aggregatore
 aggregator = tf.distribute.experimental.federated_aggregator()
