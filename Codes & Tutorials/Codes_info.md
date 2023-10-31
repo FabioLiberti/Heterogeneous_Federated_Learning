@@ -63,40 +63,40 @@ import tensorflow as tf
 
 # 1.  Data preparation
 
-# Import Dataset
+## Import Dataset
 data = np.loadtxt("data.csv", delimiter=",")
 
-# Split the data into training and test sets
+## Split the data into training and test sets
 X_train, X_test, y_train, y_test = train_test_split(data, test_size=0.2)
 
 # 2.  Model Implementation
 
-# Create Create a Neural Network Model
+## Create Create a Neural Network Model
 model = tf.keras.models.Sequential([
     tf.keras.layers.Dense(128, activation="relu"),
     tf.keras.layers.Dense(10, activation="softmax")
 ])
 
-# Compile Model
+## Compile Model
 model.compile(optimizer="adam", loss="sparse_categorical_crossentropy", metrics=["accuracy"])
 
-# Train Model
+## Train Model
 model.fit(X_train, y_train, epochs=10)
 
 # 3.  Development of the Federated Learning Architecture
 
-# Create an Aggregator
+## Create an Aggregator
 aggregator = tf.distribute.experimental.federated_aggregator()
 
 # 4.  Model deployment
 
-# Deployment of the Model to the Devices
+## Deployment of the Model to the Devices
 for device in devices:
     device.assign(model)
 
 # 5.  Model evaluation
 
-# Calculation of Model Performance
+## Calculation of Model Performance
 accuracy = aggregator.aggregate(
     [device.evaluate(X_test, y_test) for device in devices]
 )
