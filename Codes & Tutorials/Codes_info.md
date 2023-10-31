@@ -80,7 +80,7 @@ model = tf.keras.models.Sequential([
 # Compile Model
 model.compile(optimizer="adam", loss="sparse_categorical_crossentropy", metrics=["accuracy"])
 
-# Train Modello
+# Train Model
 model.fit(X_train, y_train, epochs=10)
 
 # 3.  Development of the Federated Learning Architecture
