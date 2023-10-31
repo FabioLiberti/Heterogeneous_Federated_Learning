@@ -37,18 +37,62 @@ The first step is to prepare the data that will be used to train the model.
 The data needs to be split into two sets: a training set and a test set.     
 The training set will be used to train the model, while the test set will be used to evaluate the model's performance.
 
+```python
+import numpy as np
+import tensorflow as tf
+
+# 1.  Data preparation
+
+## Import Dataset
+data = np.loadtxt("data.csv", delimiter=",")
+
+## Split the data into training and test sets
+X_train, X_test, y_train, y_test = train_test_split(data, test_size=0.2)
+```
+
 ## 2. Model implementation
 
 The next step is to implement the model that will be used to train and evaluate the data.     
 The model can be any machine learning model, such as a neural network, decision classifier, or decision tree.
 
+```python
+# 2.  Model Implementation
+
+## Create a Neural Network Model
+model = tf.keras.models.Sequential([
+    tf.keras.layers.Dense(128, activation="relu"),
+    tf.keras.layers.Dense(10, activation="softmax")
+])
+
+## Compile Model
+model.compile(optimizer="adam", loss="sparse_categorical_crossentropy", metrics=["accuracy"])
+
+## Train Model
+model.fit(X_train, y_train, epochs=10)
+```
+
 ## 3. Development of the federated learning architecture
 
 The federated learning architecture is responsible for collecting data from multiple devices, training the model, and distributing the updated model to the devices.
 
+```python
+# 3.  Development of the Federated Learning Architecture
+
+## Create an Aggregator
+aggregator = tf.distribute.experimental.federated_aggregator()
+```
+
 ## 4. Model deployment
 
 The model is deployed to devices so they can use the model to make predictions.
+
+```python
+# 4.  Model deployment
+
+## Deployment of the Model to the Devices
+for device in devices:
+    device.assign(model)
+```
 
 ## 5. Model evaluation [...]
 
@@ -56,6 +100,18 @@ The performance of the model is evaluated using the test set.
 
 
 [[...](TensorFlow_Intro.ipynb "TensorFlow Example")]
+
+```python
+# 5.  Model evaluation
+
+## Calculation of Model Performance
+accuracy = aggregator.aggregate(
+    [device.evaluate(X_test, y_test) for device in devices]
+)
+
+print("Accuracy:", accuracy)
+```
+
 
 ```python
 import numpy as np
