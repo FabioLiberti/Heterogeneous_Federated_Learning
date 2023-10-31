@@ -61,7 +61,7 @@ The performance of the model is evaluated using the test set.
 import numpy as np
 import tensorflow as tf
 
-# Data preparation
+# 1.  Data preparation
 
 # Import Dataset
 data = np.loadtxt("data.csv", delimiter=",")
@@ -69,7 +69,7 @@ data = np.loadtxt("data.csv", delimiter=",")
 # Split the data into training and test sets
 X_train, X_test, y_train, y_test = train_test_split(data, test_size=0.2)
 
-# Model Implementation
+# 2.  Model Implementation
 
 # Create Create a Neural Network Model
 model = tf.keras.models.Sequential([
@@ -83,18 +83,18 @@ model.compile(optimizer="adam", loss="sparse_categorical_crossentropy", metrics=
 # Train Modello
 model.fit(X_train, y_train, epochs=10)
 
-# Development of the Federated Learning Architecture
+# 3.  Development of the Federated Learning Architecture
 
 # Create an Aggregator
 aggregator = tf.distribute.experimental.federated_aggregator()
 
-# Model deployment
+# 4.  Model deployment
 
 # Deployment of the Model to the Devices
 for device in devices:
     device.assign(model)
 
-# Model evaluation
+# 5.  Model evaluation
 
 # Calculation of Model Performance
 accuracy = aggregator.aggregate(
