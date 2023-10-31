@@ -71,7 +71,7 @@ X_train, X_test, y_train, y_test = train_test_split(data, test_size=0.2)
 
 # 2.  Model Implementation
 
-## Create Create a Neural Network Model
+## Create a Neural Network Model
 model = tf.keras.models.Sequential([
     tf.keras.layers.Dense(128, activation="relu"),
     tf.keras.layers.Dense(10, activation="softmax")
