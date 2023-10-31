@@ -184,11 +184,15 @@ Manage communication between devices or servers and ensure the system is scalabl
 ## 10. Documentation and testing: [...]
 
 Document your Federated Learning system thoroughly and test it thoroughly to ensure it works properly.     
+
+
+---------------------
+
+
 Below is a simplified example of Python code using TensorFlow Federated (TFF), a framework for Federated Learning:
 
 
 [[...](Codes2.ipynb "Example")]
-
 
 ```python
 import tensorflow_federated as tff
